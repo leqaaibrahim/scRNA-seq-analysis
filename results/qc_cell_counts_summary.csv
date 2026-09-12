@@ -1,0 +1,4 @@
+"Sample","Initial_Cells","Doublets_Found","Final_Singlets","Median_Genes","Median_UMIs","Mean_Mito_Pct","Cells_Removed","Retention_Rate_Pct"
+"GSM5599220_Norm1",5831,0,5831,2243,7900,10.99,0,100
+"GSM5599225_Cancer1",6977,0,6977,1942,5374,14.75,0,100
+"GSM5599226_Cancer2",3473,0,3473,2942,10181,13.46,0,100
