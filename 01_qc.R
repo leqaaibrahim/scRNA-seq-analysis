@@ -195,7 +195,7 @@ p3 <- p1 + p2
 
 ggsave(
   file.path(fig_dir, paste0("qc_violin_", paste(sample_ids, collapse = "-"), ".png")),
-  p3, width = 12, height = 5, dpi = 300)
+  p3, width = 12, height = 12, dpi = 300)
 
 ## ------------------------------------------------------------
 ## 6. Report totals against the paper's published numbers
