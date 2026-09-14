@@ -1,5 +1,5 @@
 # ==============================================================================
-# 02_qc.R
+# 01_qc.R      >>>>>  Taghreed  <<<<<
 # Pipeline: Per-Sample QC -> Doublet Detection -> MT Removal -> Merge
 # ==============================================================================
 ## Quality control for GSE184880 (Xu et al. 2022, Clin Cancer Res)
