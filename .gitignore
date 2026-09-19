@@ -1,2 +1,16 @@
-*.rds
-results/*.rds
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# R session files
+.Rapp.history
+.RDataTmp
+
+# R package/build files
+*-Ex.R
+
+# RDS files too large for GitHub
+results/02_integrated_seurat.rds
+data/postQC_merged_12_samples.rds
