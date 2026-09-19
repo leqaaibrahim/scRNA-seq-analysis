@@ -54,3 +54,5 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 >>>>>>> b5d423057aaf4284aa40bb45d9be16ad0b78689e
+results/02_integrated_seurat.rds
+data/postQC_merged_12_samples.rds
