@@ -1,23 +1,15 @@
 
 # ==============================================================================
 # INTEGRATED scRNA-SEQ ANALYSIS
-# PREPROCESSING, INTEGRATION, CLUSTERING, AND CELL-TYPE ANNOTATION
-# Reproducing Xu et al. Figure 1B
+# INTEGRATION, CLUSTERING, AND CELL-TYPE ANNOTATION
+# Reproducing Xu et al. Figure 1B,1C
 # ==============================================================================
-
-# IMPORTANT:
-# Steps 1–5 are kept consistent with the original analysis.
-#
-# The main correction is in the cell-type annotation section:
 #   - seurat_clusters are explicitly used as identities before FindAllMarkers()
 #   - cell_type is assigned from the validated biological interpretation
 #     of the 8 clusters using the paper's marker panel
-#   - UMAP is plotted using cell_type rather than the initially empty
-#     cell_type metadata column
+#   - UMAP is plotted using cell_type
 #
 # ==============================================================================
-
-
 # ------------------------------------------------------------------------------
 # 0. Load packages and prepare folders
 # ------------------------------------------------------------------------------
@@ -45,15 +37,16 @@ if (!dir.exists("figures")) dir.create("figures", recursive = TRUE)
 # NOTE:
 # Set your own working directory if necessary.
 # setwd("path/to/your/project")
-
-merged_rds_path <- "data/postQC_merged_12_samples.rds"
-
+getwd()
+setwd("C:/Users/Hiba/OneDrive/Desktop/scripts")
+# Define path to the RDS file
+merged_rds_path <- "results/postQC_merged_12_samples.rds"
+# Read the file
 combined_seurat <- readRDS(merged_rds_path)
-
+# Verify the object loaded properly
 combined_seurat
 
 DefaultAssay(combined_seurat) <- "RNA"
-
 
 # ------------------------------------------------------------------------------
 # 2. Normalization, HVGs, and Scaling
@@ -128,8 +121,6 @@ combined_seurat <- ScaleData(
   combined_seurat,
   vars.to.regress = c("nCount_RNA", "percent.mt")
 )
-
-
 # ------------------------------------------------------------------------------
 # 3. PCA
 # ------------------------------------------------------------------------------
@@ -204,8 +195,6 @@ combined_seurat <- IntegrateLayers(
 combined_seurat[["RNA"]] <- JoinLayers(
   combined_seurat[["RNA"]]
 )
-
-
 # ------------------------------------------------------------------------------
 # 5. UMAP and Graph-Based Clustering
 # ------------------------------------------------------------------------------
@@ -230,10 +219,7 @@ combined_seurat <- FindNeighbors(
 )
 
 # Clustering
-#
-# IMPORTANT:
-# We keep your existing resolution because changing the upstream
-# analysis is not necessary for fixing the UMAP annotation problem.
+
 combined_seurat <- FindClusters(
   combined_seurat,
   reduction = "integrated.cca",
@@ -242,15 +228,11 @@ combined_seurat <- FindClusters(
 )
 
 # Explicitly set cluster identities.
-#
-# THIS IS IMPORTANT.
-# Previously FindAllMarkers() encountered NA/empty identities because
-# the active identities were not explicitly set to seurat_clusters.
+
 Idents(combined_seurat) <- "seurat_clusters"
 
-
 # ------------------------------------------------------------------------------
-# 5A. Check clustering BEFORE annotation
+# 5. Check clustering BEFORE annotation
 # ------------------------------------------------------------------------------
 
 message("Cluster sizes:")
@@ -290,7 +272,6 @@ ggsave(
   dpi = 300,
   bg = "white"
 )
-
 
 # ------------------------------------------------------------------------------
 # 6. Marker Discovery
@@ -349,7 +330,6 @@ print(
   n = 80
 )
 
-
 # ------------------------------------------------------------------------------
 # 7. Figure 1C Marker Panel
 # ------------------------------------------------------------------------------
@@ -403,7 +383,6 @@ marker_panel <- list(
   )
 )
 
-
 # ------------------------------------------------------------------------------
 # 7A. Check that all paper markers exist
 # ------------------------------------------------------------------------------
@@ -420,7 +399,7 @@ print(marker_panel_present)
 
 
 # ------------------------------------------------------------------------------
-# 7B. Marker DotPlot
+# 7B. Marker DotPlot,Fig.1C
 # ------------------------------------------------------------------------------
 
 dp <- DotPlot(
@@ -430,7 +409,19 @@ dp <- DotPlot(
 ) +
   RotatedAxis() +
   theme(
-    axis.text.x = element_text(size = 7)
+    axis.text.x = element_text(
+      size = 7,
+      angle = 45,
+      hjust = 1,
+      vjust = 1
+    ),
+    axis.title.x = element_text(size = 12),
+    panel.spacing.x = grid::unit(0, "pt"),
+    strip.background = element_blank(),
+    strip.text.x = element_text(
+      size = 10,
+      face = "plain"
+    )
   )
 
 print(dp)
@@ -443,7 +434,6 @@ ggsave(
   dpi = 300,
   bg = "white"
 )
-
 
 # ------------------------------------------------------------------------------
 # 7C. Average expression of paper markers
@@ -471,21 +461,9 @@ write.csv(
   "results/paper_marker_average_expression.csv"
 )
 
-
 # ------------------------------------------------------------------------------
 # 8. VALIDATED BIOLOGICAL ANNOTATION
 # ------------------------------------------------------------------------------
-
-# IMPORTANT:
-#
-# We do NOT use the previous automatic z-score/which.max approach here.
-#
-# That approach can assign biologically inappropriate labels because:
-#   1. different cell types have different numbers of markers;
-#   2. some clusters express markers from more than one related lineage;
-#   3. some paper categories are broader than the canonical cell identity;
-#   4. the objective is specifically to reproduce the paper's 8 categories.
-#
 # The mapping below is based on the observed marker expression in this
 # dataset and the marker panel used for Figure 1C.
 
@@ -599,13 +577,12 @@ write.csv(
   row.names = FALSE
 )
 
-
 # ------------------------------------------------------------------------------
 # 9. Figure 1B UMAP
 # ------------------------------------------------------------------------------
 
 # ------------------------------------------------------------------------------
-# 9. Paper-style UMAP
+# 9A. Paper-style UMAP
 # ------------------------------------------------------------------------------
 
 paper_colors <- c(
@@ -655,7 +632,7 @@ if (length(missing_colors) > 0) {
 
 
 # ------------------------------------------------------------------------------
-# 9A. Final Figure 1B UMAP
+# 9B. Final Figure 1B UMAP
 # ------------------------------------------------------------------------------
 
 p_fig1b <- DimPlot(
