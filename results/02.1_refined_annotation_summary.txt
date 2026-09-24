@@ -1,0 +1,7 @@
+input_rds=results/02_integrated_seurat.rds
+output_rds=results/02.1_integrated_seurat_refined.rds
+original_monocytic_cells=6625
+B_like_clusters=7
+B_like_cells_reassigned=458
+remaining_cells_labelled_myeloid=6167
+audit_reduction=pca
