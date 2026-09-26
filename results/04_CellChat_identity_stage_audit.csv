@@ -1,0 +1,20 @@
+"identity","Advanced","Early","Non-malignant","retained_for_comparison","balanced_n"
+"B cell_plasma",712,846,144,TRUE,144
+"C6-SLC2A1-like",391,50,67,TRUE,50
+"C7-APOBEC3A-like",235,334,20,TRUE,20
+"CD8 T",4377,3661,3205,TRUE,500
+"Cell cycle cell",559,614,339,TRUE,339
+"Endothelia",444,20,1846,TRUE,20
+"Epithelia",5184,2322,6493,TRUE,500
+"Fibroblast",1470,72,8240,TRUE,72
+"Mac-Cycling",554,138,39,TRUE,39
+"Mac-FOLR2-LYVE1-resident",825,125,145,TRUE,125
+"Mac-NUPR1-IGF2-stress",308,96,28,TRUE,28
+"Mac-OLFML3-CX3CR1-resident",505,58,60,TRUE,58
+"Mac-TNF-CCL4-inflammatory",363,208,26,TRUE,26
+"Mono-CDKN1C",22,4,128,FALSE,4
+"Mono-FCN1-S100A8-S100A9",64,53,409,TRUE,53
+"Myeloid",247,151,172,TRUE,151
+"Myeloid-CLEC10A-APC",147,46,164,TRUE,46
+"Other T",3126,2357,1820,TRUE,500
+"SMC_myoFibroblast",217,23,830,TRUE,23

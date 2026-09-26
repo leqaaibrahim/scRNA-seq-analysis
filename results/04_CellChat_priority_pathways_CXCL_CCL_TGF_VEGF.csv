@@ -1,0 +1,832 @@
+"stage","pathway_name","source","target","n_LR_pairs","summed_probability"
+"Advanced","CCL","B cell_plasma","C6-SLC2A1-like",1,0.00305323192477657
+"Early","CCL","B cell_plasma","C6-SLC2A1-like",1,7.89567413569239e-05
+"Advanced","CCL","B cell_plasma","Mac-Cycling",1,0.00161573194385044
+"Advanced","CCL","B cell_plasma","Mac-FOLR2-LYVE1-resident",1,0.00117657079930782
+"Early","CCL","B cell_plasma","Mac-FOLR2-LYVE1-resident",1,0.000185679254136442
+"Advanced","CCL","B cell_plasma","Mac-OLFML3-CX3CR1-resident",1,0.00163913926414679
+"Advanced","CCL","B cell_plasma","Mono-FCN1-S100A8-S100A9",1,0.00141693616582613
+"Advanced","CCL","B cell_plasma","Myeloid-CLEC10A-APC",2,0.000469030038946401
+"Early","CCL","B cell_plasma","Myeloid-CLEC10A-APC",1,6.38737320831637e-05
+"Advanced","CCL","C6-SLC2A1-like","B cell_plasma",1,0.00103903993725755
+"Early","CCL","C6-SLC2A1-like","B cell_plasma",3,0.0170589496733241
+"Advanced","CCL","C6-SLC2A1-like","C6-SLC2A1-like",3,0.156075445890917
+"Early","CCL","C6-SLC2A1-like","C6-SLC2A1-like",8,0.115087429679009
+"Non-malignant","CCL","C6-SLC2A1-like","C6-SLC2A1-like",4,0.312000718652759
+"Advanced","CCL","C6-SLC2A1-like","C7-APOBEC3A-like",3,0.170222231089638
+"Early","CCL","C6-SLC2A1-like","C7-APOBEC3A-like",7,0.134659598121179
+"Non-malignant","CCL","C6-SLC2A1-like","C7-APOBEC3A-like",5,0.32298375962848
+"Early","CCL","C6-SLC2A1-like","Cell cycle cell",8,0.0555122740712007
+"Advanced","CCL","C6-SLC2A1-like","Endothelia",2,0.0171499525027933
+"Early","CCL","C6-SLC2A1-like","Endothelia",4,0.0655987619229406
+"Non-malignant","CCL","C6-SLC2A1-like","Endothelia",1,0.036773063681014
+"Advanced","CCL","C6-SLC2A1-like","Mac-Cycling",3,0.0850153489546911
+"Early","CCL","C6-SLC2A1-like","Mac-Cycling",5,0.0721561210562857
+"Non-malignant","CCL","C6-SLC2A1-like","Mac-Cycling",2,0.116526293140404
+"Advanced","CCL","C6-SLC2A1-like","Mac-FOLR2-LYVE1-resident",3,0.0624714944646093
+"Early","CCL","C6-SLC2A1-like","Mac-FOLR2-LYVE1-resident",5,0.0323813476257061
+"Non-malignant","CCL","C6-SLC2A1-like","Mac-FOLR2-LYVE1-resident",2,0.22467293826661
+"Advanced","CCL","C6-SLC2A1-like","Mac-OLFML3-CX3CR1-resident",3,0.0862055976944871
+"Early","CCL","C6-SLC2A1-like","Mac-OLFML3-CX3CR1-resident",4,0.0274185762271596
+"Non-malignant","CCL","C6-SLC2A1-like","Mac-OLFML3-CX3CR1-resident",4,0.187584287451864
+"Non-malignant","CCL","C6-SLC2A1-like","Mac-TNF-CCL4-inflammatory",2,0.0396050185786404
+"Advanced","CCL","C6-SLC2A1-like","Mono-FCN1-S100A8-S100A9",4,0.0803230713969197
+"Early","CCL","C6-SLC2A1-like","Mono-FCN1-S100A8-S100A9",8,0.0678766796810194
+"Non-malignant","CCL","C6-SLC2A1-like","Mono-FCN1-S100A8-S100A9",2,0.0855724262322604
+"Non-malignant","CCL","C6-SLC2A1-like","Myeloid",2,0.0382309655818944
+"Advanced","CCL","C6-SLC2A1-like","Myeloid-CLEC10A-APC",7,0.139144289684433
+"Early","CCL","C6-SLC2A1-like","Myeloid-CLEC10A-APC",11,0.0737292308898935
+"Non-malignant","CCL","C6-SLC2A1-like","Myeloid-CLEC10A-APC",4,0.120959775204993
+"Advanced","CCL","C7-APOBEC3A-like","B cell_plasma",2,0.00227913595853042
+"Early","CCL","C7-APOBEC3A-like","B cell_plasma",2,0.0389865176708327
+"Advanced","CCL","C7-APOBEC3A-like","C6-SLC2A1-like",4,0.194458740037732
+"Early","CCL","C7-APOBEC3A-like","C6-SLC2A1-like",8,0.177187303375066
+"Non-malignant","CCL","C7-APOBEC3A-like","C6-SLC2A1-like",4,0.158094072931481
+"Advanced","CCL","C7-APOBEC3A-like","C7-APOBEC3A-like",4,0.212019042991558
+"Early","CCL","C7-APOBEC3A-like","C7-APOBEC3A-like",8,0.208110611637193
+"Non-malignant","CCL","C7-APOBEC3A-like","C7-APOBEC3A-like",5,0.156242879969316
+"Early","CCL","C7-APOBEC3A-like","Cell cycle cell",8,0.0775774450735942
+"Advanced","CCL","C7-APOBEC3A-like","Endothelia",3,0.023526656510798
+"Early","CCL","C7-APOBEC3A-like","Endothelia",4,0.15542105100639
+"Non-malignant","CCL","C7-APOBEC3A-like","Endothelia",1,0.00852489792383924
+"Advanced","CCL","C7-APOBEC3A-like","Mac-Cycling",4,0.106087609994203
+"Early","CCL","C7-APOBEC3A-like","Mac-Cycling",5,0.115563851314064
+"Non-malignant","CCL","C7-APOBEC3A-like","Mac-Cycling",2,0.0561352001115777
+"Advanced","CCL","C7-APOBEC3A-like","Mac-FOLR2-LYVE1-resident",4,0.0779943225440995
+"Early","CCL","C7-APOBEC3A-like","Mac-FOLR2-LYVE1-resident",5,0.0518313590302315
+"Non-malignant","CCL","C7-APOBEC3A-like","Mac-FOLR2-LYVE1-resident",2,0.111549669976199
+"Advanced","CCL","C7-APOBEC3A-like","Mac-OLFML3-CX3CR1-resident",4,0.107570082235548
+"Early","CCL","C7-APOBEC3A-like","Mac-OLFML3-CX3CR1-resident",5,0.0492577700559917
+"Non-malignant","CCL","C7-APOBEC3A-like","Mac-OLFML3-CX3CR1-resident",4,0.0923805888812588
+"Non-malignant","CCL","C7-APOBEC3A-like","Mac-TNF-CCL4-inflammatory",2,0.0186832732157927
+"Advanced","CCL","C7-APOBEC3A-like","Mono-FCN1-S100A8-S100A9",6,0.105404252689825
+"Early","CCL","C7-APOBEC3A-like","Mono-FCN1-S100A8-S100A9",7,0.12055970620185
+"Non-malignant","CCL","C7-APOBEC3A-like","Mono-FCN1-S100A8-S100A9",2,0.0408751208564362
+"Non-malignant","CCL","C7-APOBEC3A-like","Myeloid",2,0.0180283863782607
+"Advanced","CCL","C7-APOBEC3A-like","Myeloid-CLEC10A-APC",9,0.174255525985153
+"Early","CCL","C7-APOBEC3A-like","Myeloid-CLEC10A-APC",10,0.121519481288602
+"Non-malignant","CCL","C7-APOBEC3A-like","Myeloid-CLEC10A-APC",4,0.0591630909196377
+"Advanced","CCL","CD8 T","C6-SLC2A1-like",2,0.149135974270834
+"Early","CCL","CD8 T","C6-SLC2A1-like",5,0.138352528074981
+"Non-malignant","CCL","CD8 T","C6-SLC2A1-like",6,0.251444679887227
+"Advanced","CCL","CD8 T","C7-APOBEC3A-like",2,0.162154335081503
+"Early","CCL","CD8 T","C7-APOBEC3A-like",5,0.165523308066785
+"Non-malignant","CCL","CD8 T","C7-APOBEC3A-like",6,0.250423592540961
+"Advanced","CCL","CD8 T","Mac-Cycling",2,0.0825234021980876
+"Early","CCL","CD8 T","Mac-Cycling",2,0.0855309374066685
+"Non-malignant","CCL","CD8 T","Mac-Cycling",3,0.0856016373908529
+"Advanced","CCL","CD8 T","Mac-FOLR2-LYVE1-resident",2,0.0609498712940448
+"Early","CCL","CD8 T","Mac-FOLR2-LYVE1-resident",2,0.0389472687384741
+"Non-malignant","CCL","CD8 T","Mac-FOLR2-LYVE1-resident",3,0.165695104856157
+"Advanced","CCL","CD8 T","Mac-OLFML3-CX3CR1-resident",2,0.0836563862235449
+"Early","CCL","CD8 T","Mac-OLFML3-CX3CR1-resident",2,0.037036372286502
+"Non-malignant","CCL","CD8 T","Mac-OLFML3-CX3CR1-resident",6,0.146228240508703
+"Non-malignant","CCL","CD8 T","Mac-TNF-CCL4-inflammatory",3,0.0290300719605523
+"Advanced","CCL","CD8 T","Mono-FCN1-S100A8-S100A9",2,0.0728328033201506
+"Early","CCL","CD8 T","Mono-FCN1-S100A8-S100A9",2,0.0603392653220616
+"Non-malignant","CCL","CD8 T","Mono-FCN1-S100A8-S100A9",3,0.062803246894597
+"Advanced","CCL","CD8 T","Myeloid-CLEC10A-APC",5,0.137504475352024
+"Early","CCL","CD8 T","Myeloid-CLEC10A-APC",5,0.0742954442043304
+"Non-malignant","CCL","CD8 T","Myeloid-CLEC10A-APC",6,0.100927502323374
+"Advanced","CCL","Cell cycle cell","C6-SLC2A1-like",2,0.0640019722044716
+"Early","CCL","Cell cycle cell","C6-SLC2A1-like",5,0.140739397931526
+"Advanced","CCL","Cell cycle cell","C7-APOBEC3A-like",2,0.0699661785570836
+"Early","CCL","Cell cycle cell","C7-APOBEC3A-like",5,0.16797724007657
+"Advanced","CCL","Cell cycle cell","Mac-Cycling",2,0.034454344570095
+"Early","CCL","Cell cycle cell","Mac-Cycling",2,0.0877031706513964
+"Advanced","CCL","Cell cycle cell","Mac-FOLR2-LYVE1-resident",2,0.0252231158600189
+"Early","CCL","Cell cycle cell","Mac-FOLR2-LYVE1-resident",2,0.0395746017940255
+"Advanced","CCL","Cell cycle cell","Mac-OLFML3-CX3CR1-resident",2,0.0349436334917984
+"Early","CCL","Cell cycle cell","Mac-OLFML3-CX3CR1-resident",2,0.0376187707803898
+"Advanced","CCL","Cell cycle cell","Mono-FCN1-S100A8-S100A9",2,0.0302877417438277
+"Early","CCL","Cell cycle cell","Mono-FCN1-S100A8-S100A9",2,0.0615689995338868
+"Advanced","CCL","Cell cycle cell","Myeloid-CLEC10A-APC",5,0.0576537988040065
+"Early","CCL","Cell cycle cell","Myeloid-CLEC10A-APC",5,0.0744335140671321
+"Advanced","CCL","Endothelia","C6-SLC2A1-like",1,0.00434081147050699
+"Early","CCL","Endothelia","C6-SLC2A1-like",1,0.000621962533435864
+"Non-malignant","CCL","Endothelia","C6-SLC2A1-like",1,0.0062105086484898
+"Non-malignant","CCL","Endothelia","C7-APOBEC3A-like",1,0.0053056193637157
+"Advanced","CCL","Endothelia","Mac-Cycling",1,0.00229850048784551
+"Non-malignant","CCL","Endothelia","Mac-Cycling",1,0.00247180325045864
+"Advanced","CCL","Endothelia","Mac-FOLR2-LYVE1-resident",1,0.00167407182955149
+"Non-malignant","CCL","Endothelia","Mac-FOLR2-LYVE1-resident",1,0.00505037928727005
+"Advanced","CCL","Endothelia","Mac-OLFML3-CX3CR1-resident",1,0.00233177606371008
+"Non-malignant","CCL","Endothelia","Mac-OLFML3-CX3CR1-resident",1,0.00373531047942207
+"Non-malignant","CCL","Endothelia","Mac-TNF-CCL4-inflammatory",1,0.000807674077364251
+"Advanced","CCL","Endothelia","Mono-FCN1-S100A8-S100A9",1,0.00201586812739175
+"Non-malignant","CCL","Endothelia","Mono-FCN1-S100A8-S100A9",1,0.00178633936564331
+"Advanced","CCL","Endothelia","Myeloid-CLEC10A-APC",1,0.000404645147613955
+"Early","CCL","Endothelia","Myeloid-CLEC10A-APC",1,0.000503201996113766
+"Non-malignant","CCL","Endothelia","Myeloid-CLEC10A-APC",1,0.00202699187852526
+"Advanced","CCL","Epithelia","C6-SLC2A1-like",1,0.000262718970648503
+"Early","CCL","Epithelia","C6-SLC2A1-like",1,8.87783610106714e-05
+"Advanced","CCL","Epithelia","Mac-Cycling",1,0.000138844601998235
+"Advanced","CCL","Epithelia","Mac-FOLR2-LYVE1-resident",1,0.000101065556466
+"Advanced","CCL","Epithelia","Mac-OLFML3-CX3CR1-resident",1,0.000140859080611605
+"Advanced","CCL","Epithelia","Mono-FCN1-S100A8-S100A9",1,0.000121739338237233
+"Advanced","CCL","Epithelia","Myeloid-CLEC10A-APC",2,9.00827111658641e-05
+"Early","CCL","Epithelia","Myeloid-CLEC10A-APC",1,7.18192745627799e-05
+"Early","CCL","Fibroblast","C6-SLC2A1-like",1,0.000213465847456397
+"Non-malignant","CCL","Fibroblast","C7-APOBEC3A-like",1,0.00071329748892032
+"Advanced","CCL","Fibroblast","Mono-FCN1-S100A8-S100A9",1,0.00112123007529265
+"Early","CCL","Fibroblast","Mono-FCN1-S100A8-S100A9",1,0.00138827136765721
+"Advanced","CCL","Fibroblast","Myeloid-CLEC10A-APC",1,0.00052722037046608
+"Early","CCL","Fibroblast","Myeloid-CLEC10A-APC",2,0.00124780174202521
+"Advanced","CCL","Mac-Cycling","B cell_plasma",1,0.0028012796497874
+"Early","CCL","Mac-Cycling","B cell_plasma",2,0.0180949204118405
+"Advanced","CCL","Mac-Cycling","C6-SLC2A1-like",3,0.141860247487447
+"Early","CCL","Mac-Cycling","C6-SLC2A1-like",7,0.201359407442978
+"Non-malignant","CCL","Mac-Cycling","C6-SLC2A1-like",4,0.0881321466391585
+"Advanced","CCL","Mac-Cycling","C7-APOBEC3A-like",3,0.154748049912837
+"Early","CCL","Mac-Cycling","C7-APOBEC3A-like",6,0.232381594786647
+"Non-malignant","CCL","Mac-Cycling","C7-APOBEC3A-like",5,0.0904281873252835
+"Early","CCL","Mac-Cycling","Cell cycle cell",7,0.0881282739156579
+"Advanced","CCL","Mac-Cycling","Endothelia",2,0.0198333587519663
+"Early","CCL","Mac-Cycling","Endothelia",3,0.0726302567382445
+"Non-malignant","CCL","Mac-Cycling","Endothelia",1,0.0134391239442229
+"Advanced","CCL","Mac-Cycling","Mac-Cycling",3,0.0771908038372508
+"Early","CCL","Mac-Cycling","Mac-Cycling",4,0.132602538937076
+"Non-malignant","CCL","Mac-Cycling","Mac-Cycling",2,0.0323035764742699
+"Advanced","CCL","Mac-Cycling","Mac-FOLR2-LYVE1-resident",3,0.056700905488727
+"Early","CCL","Mac-Cycling","Mac-FOLR2-LYVE1-resident",4,0.0600984922559802
+"Non-malignant","CCL","Mac-Cycling","Mac-FOLR2-LYVE1-resident",2,0.0649967995140224
+"Advanced","CCL","Mac-Cycling","Mac-OLFML3-CX3CR1-resident",3,0.0782729933952935
+"Early","CCL","Mac-Cycling","Mac-OLFML3-CX3CR1-resident",4,0.057138690250771
+"Non-malignant","CCL","Mac-Cycling","Mac-OLFML3-CX3CR1-resident",4,0.0518094934825194
+"Non-malignant","CCL","Mac-Cycling","Mac-TNF-CCL4-inflammatory",2,0.0106620394662272
+"Advanced","CCL","Mac-Cycling","Mono-FCN1-S100A8-S100A9",4,0.0825765319910149
+"Early","CCL","Mac-Cycling","Mono-FCN1-S100A8-S100A9",6,0.111738018662088
+"Non-malignant","CCL","Mac-Cycling","Mono-FCN1-S100A8-S100A9",2,0.0234419373606794
+"Non-malignant","CCL","Mac-Cycling","Myeloid",2,0.0102868150315604
+"Advanced","CCL","Mac-Cycling","Myeloid-CLEC10A-APC",7,0.129106988088738
+"Early","CCL","Mac-Cycling","Myeloid-CLEC10A-APC",8,0.111706614573891
+"Non-malignant","CCL","Mac-Cycling","Myeloid-CLEC10A-APC",4,0.0315471175993127
+"Advanced","CCL","Mac-FOLR2-LYVE1-resident","B cell_plasma",1,0.000661331295933451
+"Early","CCL","Mac-FOLR2-LYVE1-resident","B cell_plasma",1,0.00376639997601496
+"Advanced","CCL","Mac-FOLR2-LYVE1-resident","C6-SLC2A1-like",3,0.132631419964755
+"Early","CCL","Mac-FOLR2-LYVE1-resident","C6-SLC2A1-like",4,0.105884822736955
+"Non-malignant","CCL","Mac-FOLR2-LYVE1-resident","C6-SLC2A1-like",4,0.0974888184650967
+"Advanced","CCL","Mac-FOLR2-LYVE1-resident","C7-APOBEC3A-like",3,0.144759872699723
+"Early","CCL","Mac-FOLR2-LYVE1-resident","C7-APOBEC3A-like",4,0.125145919654229
+"Non-malignant","CCL","Mac-FOLR2-LYVE1-resident","C7-APOBEC3A-like",5,0.103377802777635
+"Early","CCL","Mac-FOLR2-LYVE1-resident","Cell cycle cell",4,0.0485083397452771
+"Advanced","CCL","Mac-FOLR2-LYVE1-resident","Endothelia",2,0.0109127413879906
+"Early","CCL","Mac-FOLR2-LYVE1-resident","Endothelia",1,0.0118588450728375
+"Non-malignant","CCL","Mac-FOLR2-LYVE1-resident","Endothelia",1,0.0171313457189618
+"Advanced","CCL","Mac-FOLR2-LYVE1-resident","Mac-Cycling",3,0.0719757720329826
+"Early","CCL","Mac-FOLR2-LYVE1-resident","Mac-Cycling",2,0.0678828012053434
+"Non-malignant","CCL","Mac-FOLR2-LYVE1-resident","Mac-Cycling",2,0.0347920062680891
+"Advanced","CCL","Mac-FOLR2-LYVE1-resident","Mac-FOLR2-LYVE1-resident",3,0.0528263582455341
+"Early","CCL","Mac-FOLR2-LYVE1-resident","Mac-FOLR2-LYVE1-resident",2,0.0304688214246167
+"Non-malignant","CCL","Mac-FOLR2-LYVE1-resident","Mac-FOLR2-LYVE1-resident",2,0.0697737951887635
+"Advanced","CCL","Mac-FOLR2-LYVE1-resident","Mac-OLFML3-CX3CR1-resident",3,0.0729880650535187
+"Early","CCL","Mac-FOLR2-LYVE1-resident","Mac-OLFML3-CX3CR1-resident",2,0.0289567755854302
+"Non-malignant","CCL","Mac-FOLR2-LYVE1-resident","Mac-OLFML3-CX3CR1-resident",4,0.0568596724203723
+"Non-malignant","CCL","Mac-FOLR2-LYVE1-resident","Mac-TNF-CCL4-inflammatory",2,0.011508834507705
+"Advanced","CCL","Mac-FOLR2-LYVE1-resident","Mono-FCN1-S100A8-S100A9",4,0.0668268070577752
+"Early","CCL","Mac-FOLR2-LYVE1-resident","Mono-FCN1-S100A8-S100A9",3,0.051353966351396
+"Non-malignant","CCL","Mac-FOLR2-LYVE1-resident","Mono-FCN1-S100A8-S100A9",2,0.0252705538886457
+"Non-malignant","CCL","Mac-FOLR2-LYVE1-resident","Myeloid",2,0.011104238713525
+"Advanced","CCL","Mac-FOLR2-LYVE1-resident","Myeloid-CLEC10A-APC",7,0.116826032283185
+"Early","CCL","Mac-FOLR2-LYVE1-resident","Myeloid-CLEC10A-APC",5,0.0577327604469389
+"Non-malignant","CCL","Mac-FOLR2-LYVE1-resident","Myeloid-CLEC10A-APC",4,0.0356900025452912
+"Advanced","CCL","Mac-NUPR1-IGF2-stress","B cell_plasma",1,0.000128131485026356
+"Advanced","CCL","Mac-NUPR1-IGF2-stress","C6-SLC2A1-like",2,0.0607391413908639
+"Early","CCL","Mac-NUPR1-IGF2-stress","C6-SLC2A1-like",3,0.0230086876320931
+"Non-malignant","CCL","Mac-NUPR1-IGF2-stress","C6-SLC2A1-like",4,0.0622694362688711
+"Advanced","CCL","Mac-NUPR1-IGF2-stress","C7-APOBEC3A-like",2,0.0664057766992384
+"Early","CCL","Mac-NUPR1-IGF2-stress","C7-APOBEC3A-like",3,0.0281294961928879
+"Non-malignant","CCL","Mac-NUPR1-IGF2-stress","C7-APOBEC3A-like",4,0.0580085962746927
+"Early","CCL","Mac-NUPR1-IGF2-stress","Cell cycle cell",3,0.0126837558696165
+"Advanced","CCL","Mac-NUPR1-IGF2-stress","Endothelia",1,0.000727690188485036
+"Advanced","CCL","Mac-NUPR1-IGF2-stress","Mac-Cycling",2,0.032682028504922
+"Early","CCL","Mac-NUPR1-IGF2-stress","Mac-Cycling",1,0.0133602144991628
+"Non-malignant","CCL","Mac-NUPR1-IGF2-stress","Mac-Cycling",2,0.0221827391518132
+"Advanced","CCL","Mac-NUPR1-IGF2-stress","Mac-FOLR2-LYVE1-resident",2,0.0239220277486473
+"Early","CCL","Mac-NUPR1-IGF2-stress","Mac-FOLR2-LYVE1-resident",1,0.00591468132812833
+"Non-malignant","CCL","Mac-NUPR1-IGF2-stress","Mac-FOLR2-LYVE1-resident",2,0.0448799482974541
+"Advanced","CCL","Mac-NUPR1-IGF2-stress","Mac-OLFML3-CX3CR1-resident",2,0.0331464145635216
+"Early","CCL","Mac-NUPR1-IGF2-stress","Mac-OLFML3-CX3CR1-resident",1,0.00561804707848529
+"Non-malignant","CCL","Mac-NUPR1-IGF2-stress","Mac-OLFML3-CX3CR1-resident",4,0.0361698524223443
+"Non-malignant","CCL","Mac-NUPR1-IGF2-stress","Mac-TNF-CCL4-inflammatory",2,0.00729494275730968
+"Advanced","CCL","Mac-NUPR1-IGF2-stress","Mono-FCN1-S100A8-S100A9",3,0.0294040197049663
+"Early","CCL","Mac-NUPR1-IGF2-stress","Mono-FCN1-S100A8-S100A9",1,0.00928211689052549
+"Non-malignant","CCL","Mac-NUPR1-IGF2-stress","Mono-FCN1-S100A8-S100A9",2,0.0160734684044103
+"Non-malignant","CCL","Mac-NUPR1-IGF2-stress","Myeloid",2,0.00703777062854724
+"Advanced","CCL","Mac-NUPR1-IGF2-stress","Myeloid-CLEC10A-APC",5,0.0549047996959323
+"Early","CCL","Mac-NUPR1-IGF2-stress","Myeloid-CLEC10A-APC",3,0.0123348833679418
+"Non-malignant","CCL","Mac-NUPR1-IGF2-stress","Myeloid-CLEC10A-APC",4,0.022391423419253
+"Advanced","CCL","Mac-OLFML3-CX3CR1-resident","B cell_plasma",1,0.00135256293715012
+"Early","CCL","Mac-OLFML3-CX3CR1-resident","B cell_plasma",1,0.0044288451446195
+"Advanced","CCL","Mac-OLFML3-CX3CR1-resident","C6-SLC2A1-like",3,0.19693376758003
+"Early","CCL","Mac-OLFML3-CX3CR1-resident","C6-SLC2A1-like",6,0.225411952708869
+"Non-malignant","CCL","Mac-OLFML3-CX3CR1-resident","C6-SLC2A1-like",4,0.3256919489033
+"Advanced","CCL","Mac-OLFML3-CX3CR1-resident","C7-APOBEC3A-like",3,0.214312432902745
+"Early","CCL","Mac-OLFML3-CX3CR1-resident","C7-APOBEC3A-like",6,0.264104817727891
+"Non-malignant","CCL","Mac-OLFML3-CX3CR1-resident","C7-APOBEC3A-like",5,0.31441221574352
+"Early","CCL","Mac-OLFML3-CX3CR1-resident","Cell cycle cell",6,0.100649653781558
+"Advanced","CCL","Mac-OLFML3-CX3CR1-resident","Endothelia",2,0.0127054018045239
+"Early","CCL","Mac-OLFML3-CX3CR1-resident","Endothelia",2,0.036962654536609
+"Non-malignant","CCL","Mac-OLFML3-CX3CR1-resident","Endothelia",1,0.00769872304300062
+"Advanced","CCL","Mac-OLFML3-CX3CR1-resident","Mac-Cycling",3,0.108466421232932
+"Early","CCL","Mac-OLFML3-CX3CR1-resident","Mac-Cycling",3,0.147845698717755
+"Non-malignant","CCL","Mac-OLFML3-CX3CR1-resident","Mac-Cycling",2,0.123231753421189
+"Advanced","CCL","Mac-OLFML3-CX3CR1-resident","Mac-FOLR2-LYVE1-resident",3,0.0799857276860637
+"Early","CCL","Mac-OLFML3-CX3CR1-resident","Mac-FOLR2-LYVE1-resident",3,0.0672944037145037
+"Non-malignant","CCL","Mac-OLFML3-CX3CR1-resident","Mac-FOLR2-LYVE1-resident",2,0.237055896923936
+"Advanced","CCL","Mac-OLFML3-CX3CR1-resident","Mac-OLFML3-CX3CR1-resident",3,0.109964523044461
+"Early","CCL","Mac-OLFML3-CX3CR1-resident","Mac-OLFML3-CX3CR1-resident",3,0.0639914036444425
+"Non-malignant","CCL","Mac-OLFML3-CX3CR1-resident","Mac-OLFML3-CX3CR1-resident",4,0.196875854399528
+"Non-malignant","CCL","Mac-OLFML3-CX3CR1-resident","Mac-TNF-CCL4-inflammatory",2,0.0419497839134311
+"Advanced","CCL","Mac-OLFML3-CX3CR1-resident","Mono-FCN1-S100A8-S100A9",4,0.102763647974134
+"Early","CCL","Mac-OLFML3-CX3CR1-resident","Mono-FCN1-S100A8-S100A9",4,0.108789339949904
+"Non-malignant","CCL","Mac-OLFML3-CX3CR1-resident","Mono-FCN1-S100A8-S100A9",2,0.090554378066219
+"Non-malignant","CCL","Mac-OLFML3-CX3CR1-resident","Myeloid",2,0.0404954950549098
+"Advanced","CCL","Mac-OLFML3-CX3CR1-resident","Myeloid-CLEC10A-APC",7,0.175053273873666
+"Early","CCL","Mac-OLFML3-CX3CR1-resident","Myeloid-CLEC10A-APC",7,0.120737481184244
+"Non-malignant","CCL","Mac-OLFML3-CX3CR1-resident","Myeloid-CLEC10A-APC",4,0.126048139564018
+"Advanced","CCL","Mac-TNF-CCL4-inflammatory","B cell_plasma",1,0.000702016700405711
+"Early","CCL","Mac-TNF-CCL4-inflammatory","B cell_plasma",1,0.0141496932258596
+"Advanced","CCL","Mac-TNF-CCL4-inflammatory","C6-SLC2A1-like",3,0.216698944931978
+"Early","CCL","Mac-TNF-CCL4-inflammatory","C6-SLC2A1-like",6,0.255999865175652
+"Non-malignant","CCL","Mac-TNF-CCL4-inflammatory","C6-SLC2A1-like",4,0.375182610544483
+"Advanced","CCL","Mac-TNF-CCL4-inflammatory","C7-APOBEC3A-like",3,0.235592628992226
+"Early","CCL","Mac-TNF-CCL4-inflammatory","C7-APOBEC3A-like",6,0.29878105368198
+"Non-malignant","CCL","Mac-TNF-CCL4-inflammatory","C7-APOBEC3A-like",5,0.373911129101763
+"Early","CCL","Mac-TNF-CCL4-inflammatory","Cell cycle cell",6,0.112738077491993
+"Advanced","CCL","Mac-TNF-CCL4-inflammatory","Endothelia",2,0.00868116397523152
+"Early","CCL","Mac-TNF-CCL4-inflammatory","Endothelia",2,0.0690642097522327
+"Non-malignant","CCL","Mac-TNF-CCL4-inflammatory","Endothelia",1,0.0228723625442321
+"Advanced","CCL","Mac-TNF-CCL4-inflammatory","Mac-Cycling",3,0.119947103020642
+"Early","CCL","Mac-TNF-CCL4-inflammatory","Mac-Cycling",3,0.16967198837084
+"Non-malignant","CCL","Mac-TNF-CCL4-inflammatory","Mac-Cycling",2,0.142886495682751
+"Advanced","CCL","Mac-TNF-CCL4-inflammatory","Mac-FOLR2-LYVE1-resident",3,0.0885940280792139
+"Early","CCL","Mac-TNF-CCL4-inflammatory","Mac-FOLR2-LYVE1-resident",3,0.0776550307415237
+"Non-malignant","CCL","Mac-TNF-CCL4-inflammatory","Mac-FOLR2-LYVE1-resident",2,0.272283211785537
+"Advanced","CCL","Mac-TNF-CCL4-inflammatory","Mac-OLFML3-CX3CR1-resident",3,0.121593509989949
+"Early","CCL","Mac-TNF-CCL4-inflammatory","Mac-OLFML3-CX3CR1-resident",3,0.0738602820130767
+"Non-malignant","CCL","Mac-TNF-CCL4-inflammatory","Mac-OLFML3-CX3CR1-resident",4,0.228065003686054
+"Non-malignant","CCL","Mac-TNF-CCL4-inflammatory","Mac-TNF-CCL4-inflammatory",2,0.0489714228264863
+"Advanced","CCL","Mac-TNF-CCL4-inflammatory","Mono-FCN1-S100A8-S100A9",4,0.109560254556312
+"Early","CCL","Mac-TNF-CCL4-inflammatory","Mono-FCN1-S100A8-S100A9",4,0.134438202539627
+"Non-malignant","CCL","Mac-TNF-CCL4-inflammatory","Mono-FCN1-S100A8-S100A9",2,0.105283412934697
+"Non-malignant","CCL","Mac-TNF-CCL4-inflammatory","Myeloid",2,0.0472794618346293
+"Advanced","CCL","Mac-TNF-CCL4-inflammatory","Myeloid-CLEC10A-APC",7,0.190709214609854
+"Early","CCL","Mac-TNF-CCL4-inflammatory","Myeloid-CLEC10A-APC",7,0.144532999612386
+"Non-malignant","CCL","Mac-TNF-CCL4-inflammatory","Myeloid-CLEC10A-APC",4,0.147501453597216
+"Early","CCL","Mono-FCN1-S100A8-S100A9","B cell_plasma",1,0.00228663457576901
+"Advanced","CCL","Mono-FCN1-S100A8-S100A9","C6-SLC2A1-like",2,0.112223407237861
+"Early","CCL","Mono-FCN1-S100A8-S100A9","C6-SLC2A1-like",4,0.109258943485983
+"Non-malignant","CCL","Mono-FCN1-S100A8-S100A9","C6-SLC2A1-like",4,0.152765002477599
+"Advanced","CCL","Mono-FCN1-S100A8-S100A9","C7-APOBEC3A-like",2,0.122452445697968
+"Early","CCL","Mono-FCN1-S100A8-S100A9","C7-APOBEC3A-like",4,0.12815593286664
+"Non-malignant","CCL","Mono-FCN1-S100A8-S100A9","C7-APOBEC3A-like",4,0.143759139017201
+"Early","CCL","Mono-FCN1-S100A8-S100A9","Cell cycle cell",4,0.0474217904724459
+"Early","CCL","Mono-FCN1-S100A8-S100A9","Endothelia",1,0.00722272299028738
+"Advanced","CCL","Mono-FCN1-S100A8-S100A9","Mac-Cycling",2,0.0609770694805424
+"Early","CCL","Mono-FCN1-S100A8-S100A9","Mac-Cycling",2,0.0715565070650168
+"Non-malignant","CCL","Mono-FCN1-S100A8-S100A9","Mac-Cycling",2,0.0551369016838444
+"Advanced","CCL","Mono-FCN1-S100A8-S100A9","Mac-FOLR2-LYVE1-resident",2,0.0447699520306042
+"Early","CCL","Mono-FCN1-S100A8-S100A9","Mac-FOLR2-LYVE1-resident",2,0.0321132843491348
+"Non-malignant","CCL","Mono-FCN1-S100A8-S100A9","Mac-FOLR2-LYVE1-resident",2,0.109741574086164
+"Advanced","CCL","Mono-FCN1-S100A8-S100A9","Mac-OLFML3-CX3CR1-resident",2,0.0618334707988815
+"Early","CCL","Mono-FCN1-S100A8-S100A9","Mac-OLFML3-CX3CR1-resident",2,0.0305194357041911
+"Non-malignant","CCL","Mono-FCN1-S100A8-S100A9","Mac-OLFML3-CX3CR1-resident",4,0.0897090105801023
+"Non-malignant","CCL","Mono-FCN1-S100A8-S100A9","Mac-TNF-CCL4-inflammatory",2,0.0183305496903947
+"Advanced","CCL","Mono-FCN1-S100A8-S100A9","Mono-FCN1-S100A8-S100A9",2,0.0536735399133835
+"Early","CCL","Mono-FCN1-S100A8-S100A9","Mono-FCN1-S100A8-S100A9",3,0.052414750887113
+"Non-malignant","CCL","Mono-FCN1-S100A8-S100A9","Mono-FCN1-S100A8-S100A9",2,0.0401300849084594
+"Non-malignant","CCL","Mono-FCN1-S100A8-S100A9","Myeloid",2,0.0176876773006812
+"Advanced","CCL","Mono-FCN1-S100A8-S100A9","Myeloid-CLEC10A-APC",4,0.0961917460607952
+"Early","CCL","Mono-FCN1-S100A8-S100A9","Myeloid-CLEC10A-APC",5,0.057608289024363
+"Non-malignant","CCL","Mono-FCN1-S100A8-S100A9","Myeloid-CLEC10A-APC",4,0.0564786333777661
+"Advanced","CCL","Myeloid","C6-SLC2A1-like",3,0.0482007419153659
+"Early","CCL","Myeloid","C6-SLC2A1-like",3,0.00491506414563696
+"Non-malignant","CCL","Myeloid","C6-SLC2A1-like",4,0.0605329525023625
+"Advanced","CCL","Myeloid","C7-APOBEC3A-like",3,0.0527831736179934
+"Non-malignant","CCL","Myeloid","C7-APOBEC3A-like",4,0.0554304559013455
+"Advanced","CCL","Myeloid","Mac-Cycling",3,0.0257283248289721
+"Non-malignant","CCL","Myeloid","Mac-Cycling",2,0.0221630124777446
+"Advanced","CCL","Myeloid","Mac-FOLR2-LYVE1-resident",3,0.0187851735071689
+"Early","CCL","Myeloid","Mac-FOLR2-LYVE1-resident",1,0.00119301153693495
+"Non-malignant","CCL","Myeloid","Mac-FOLR2-LYVE1-resident",2,0.0448586204485012
+"Advanced","CCL","Myeloid","Mac-OLFML3-CX3CR1-resident",3,0.0260973628651969
+"Non-malignant","CCL","Myeloid","Mac-OLFML3-CX3CR1-resident",4,0.0354852819519906
+"Non-malignant","CCL","Myeloid","Mac-TNF-CCL4-inflammatory",2,0.0072864427351919
+"Advanced","CCL","Myeloid","Mono-FCN1-S100A8-S100A9",3,0.0225899213781762
+"Non-malignant","CCL","Myeloid","Mono-FCN1-S100A8-S100A9",2,0.016057361336489
+"Advanced","CCL","Myeloid","Myeloid-CLEC10A-APC",6,0.04094594255827
+"Early","CCL","Myeloid","Myeloid-CLEC10A-APC",2,0.00103948387422314
+"Non-malignant","CCL","Myeloid","Myeloid-CLEC10A-APC",4,0.021392604457118
+"Advanced","CCL","Myeloid-CLEC10A-APC","B cell_plasma",1,0.00157505741607428
+"Early","CCL","Myeloid-CLEC10A-APC","B cell_plasma",1,0.00322963130296621
+"Advanced","CCL","Myeloid-CLEC10A-APC","C6-SLC2A1-like",3,0.15798241021845
+"Early","CCL","Myeloid-CLEC10A-APC","C6-SLC2A1-like",5,0.181231376818469
+"Non-malignant","CCL","Myeloid-CLEC10A-APC","C6-SLC2A1-like",4,0.339356829680458
+"Advanced","CCL","Myeloid-CLEC10A-APC","C7-APOBEC3A-like",3,0.172107897052617
+"Early","CCL","Myeloid-CLEC10A-APC","C7-APOBEC3A-like",4,0.210737165649448
+"Non-malignant","CCL","Myeloid-CLEC10A-APC","C7-APOBEC3A-like",5,0.326868376554944
+"Early","CCL","Myeloid-CLEC10A-APC","Cell cycle cell",6,0.0790933841754452
+"Advanced","CCL","Myeloid-CLEC10A-APC","Endothelia",2,0.0110591758032074
+"Early","CCL","Myeloid-CLEC10A-APC","Endothelia",2,0.0138692855184981
+"Non-malignant","CCL","Myeloid-CLEC10A-APC","Endothelia",1,0.00530246583146825
+"Advanced","CCL","Myeloid-CLEC10A-APC","Mac-Cycling",3,0.0865375059433663
+"Early","CCL","Myeloid-CLEC10A-APC","Mac-Cycling",2,0.120336437019445
+"Non-malignant","CCL","Myeloid-CLEC10A-APC","Mac-Cycling",2,0.128100345221175
+"Advanced","CCL","Myeloid-CLEC10A-APC","Mac-FOLR2-LYVE1-resident",3,0.0637017348714737
+"Early","CCL","Myeloid-CLEC10A-APC","Mac-FOLR2-LYVE1-resident",3,0.0557460618944555
+"Non-malignant","CCL","Myeloid-CLEC10A-APC","Mac-FOLR2-LYVE1-resident",2,0.245862981203174
+"Advanced","CCL","Myeloid-CLEC10A-APC","Mac-OLFML3-CX3CR1-resident",3,0.0877409074883448
+"Early","CCL","Myeloid-CLEC10A-APC","Mac-OLFML3-CX3CR1-resident",2,0.0520431866868085
+"Non-malignant","CCL","Myeloid-CLEC10A-APC","Mac-OLFML3-CX3CR1-resident",4,0.205131692514013
+"Non-malignant","CCL","Myeloid-CLEC10A-APC","Mac-TNF-CCL4-inflammatory",2,0.0436775546863501
+"Advanced","CCL","Myeloid-CLEC10A-APC","Mono-FCN1-S100A8-S100A9",4,0.084522831981732
+"Early","CCL","Myeloid-CLEC10A-APC","Mono-FCN1-S100A8-S100A9",3,0.0881317102956773
+"Non-malignant","CCL","Myeloid-CLEC10A-APC","Mono-FCN1-S100A8-S100A9",2,0.094193118935843
+"Non-malignant","CCL","Myeloid-CLEC10A-APC","Myeloid",2,0.0421645841163422
+"Advanced","CCL","Myeloid-CLEC10A-APC","Myeloid-CLEC10A-APC",7,0.143157927276531
+"Early","CCL","Myeloid-CLEC10A-APC","Myeloid-CLEC10A-APC",6,0.0960670055953252
+"Non-malignant","CCL","Myeloid-CLEC10A-APC","Myeloid-CLEC10A-APC",4,0.132089637820618
+"Advanced","CCL","Other T","C6-SLC2A1-like",1,0.0144586129646321
+"Early","CCL","Other T","C6-SLC2A1-like",3,0.0170097536100429
+"Non-malignant","CCL","Other T","C6-SLC2A1-like",3,0.0333675717147834
+"Advanced","CCL","Other T","C7-APOBEC3A-like",1,0.0158435662185999
+"Early","CCL","Other T","C7-APOBEC3A-like",1,0.0157411286083103
+"Non-malignant","CCL","Other T","C7-APOBEC3A-like",3,0.0314262839951745
+"Advanced","CCL","Other T","Mac-Cycling",1,0.00769275120265224
+"Early","CCL","Other T","Mac-Cycling",1,0.0106038360903894
+"Non-malignant","CCL","Other T","Mac-Cycling",1,0.0116635911715632
+"Advanced","CCL","Other T","Mac-FOLR2-LYVE1-resident",1,0.00561111984269022
+"Early","CCL","Other T","Mac-FOLR2-LYVE1-resident",1,0.00468711161527322
+"Non-malignant","CCL","Other T","Mac-FOLR2-LYVE1-resident",1,0.0236041096180209
+"Advanced","CCL","Other T","Mac-OLFML3-CX3CR1-resident",1,0.00780350897528624
+"Early","CCL","Other T","Mac-OLFML3-CX3CR1-resident",1,0.00445176697574961
+"Non-malignant","CCL","Other T","Mac-OLFML3-CX3CR1-resident",3,0.0192559846341087
+"Non-malignant","CCL","Other T","Mac-TNF-CCL4-inflammatory",1,0.00383492734612005
+"Advanced","CCL","Other T","Mono-FCN1-S100A8-S100A9",1,0.0067513097057655
+"Early","CCL","Other T","Mono-FCN1-S100A8-S100A9",1,0.0073608237555918
+"Non-malignant","CCL","Other T","Mono-FCN1-S100A8-S100A9",1,0.00845071665788077
+"Advanced","CCL","Other T","Myeloid-CLEC10A-APC",3,0.0129541368076051
+"Early","CCL","Other T","Myeloid-CLEC10A-APC",3,0.00875860031987004
+"Non-malignant","CCL","Other T","Myeloid-CLEC10A-APC",3,0.0121227464112062
+"Early","CCL","SMC_myoFibroblast","C6-SLC2A1-like",1,0.00152067127270307
+"Non-malignant","CCL","SMC_myoFibroblast","C6-SLC2A1-like",1,0.000427014111046893
+"Early","CCL","SMC_myoFibroblast","C7-APOBEC3A-like",1,0.0016927263390535
+"Non-malignant","CCL","SMC_myoFibroblast","C7-APOBEC3A-like",2,0.00381776666106548
+"Early","CCL","SMC_myoFibroblast","Mac-Cycling",1,0.00113499923071829
+"Early","CCL","SMC_myoFibroblast","Mac-FOLR2-LYVE1-resident",1,0.000499027955945679
+"Early","CCL","SMC_myoFibroblast","Mac-OLFML3-CX3CR1-resident",1,0.000473871136271254
+"Non-malignant","CCL","SMC_myoFibroblast","Mac-OLFML3-CX3CR1-resident",1,0.000163504596184024
+"Advanced","CCL","SMC_myoFibroblast","Mono-FCN1-S100A8-S100A9",1,0.00115965999358712
+"Early","CCL","SMC_myoFibroblast","Mono-FCN1-S100A8-S100A9",3,0.0029361394070102
+"Advanced","CCL","SMC_myoFibroblast","Myeloid-CLEC10A-APC",1,0.000545301849183905
+"Early","CCL","SMC_myoFibroblast","Myeloid-CLEC10A-APC",3,0.00235361223315988
+"Non-malignant","CCL","SMC_myoFibroblast","Myeloid-CLEC10A-APC",1,0.00024279301952808
+"Early","CXCL","C6-SLC2A1-like","B cell_plasma",2,0.00097547775664385
+"Advanced","CXCL","C6-SLC2A1-like","CD8 T",1,0.00676236702483941
+"Early","CXCL","C6-SLC2A1-like","CD8 T",3,0.0161680600796492
+"Advanced","CXCL","C6-SLC2A1-like","Cell cycle cell",1,0.00288076271255948
+"Early","CXCL","C6-SLC2A1-like","Cell cycle cell",3,0.00901223906954189
+"Advanced","CXCL","C6-SLC2A1-like","Endothelia",3,0.0508113417788195
+"Early","CXCL","C6-SLC2A1-like","Endothelia",6,0.208664201912121
+"Non-malignant","CXCL","C6-SLC2A1-like","Endothelia",4,0.126659349727012
+"Early","CXCL","C6-SLC2A1-like","Other T",2,0.00433745082024409
+"Early","CXCL","C7-APOBEC3A-like","B cell_plasma",3,0.0132576680124643
+"Advanced","CXCL","C7-APOBEC3A-like","CD8 T",4,0.0508811622274923
+"Early","CXCL","C7-APOBEC3A-like","CD8 T",4,0.0618965816750716
+"Advanced","CXCL","C7-APOBEC3A-like","Cell cycle cell",4,0.0381004488655688
+"Early","CXCL","C7-APOBEC3A-like","Cell cycle cell",4,0.0494325989974581
+"Advanced","CXCL","C7-APOBEC3A-like","Endothelia",7,0.0596473997370622
+"Early","CXCL","C7-APOBEC3A-like","Endothelia",7,0.223587739978114
+"Non-malignant","CXCL","C7-APOBEC3A-like","Endothelia",3,0.0222988814165899
+"Advanced","CXCL","C7-APOBEC3A-like","Other T",3,0.0442183450161864
+"Early","CXCL","C7-APOBEC3A-like","Other T",3,0.0581221099628358
+"Early","CXCL","C7-APOBEC3A-like","SMC_myoFibroblast",1,0.0101539983985096
+"Non-malignant","CXCL","Cell cycle cell","C6-SLC2A1-like",1,0.00192541385617582
+"Non-malignant","CXCL","Cell cycle cell","C7-APOBEC3A-like",1,0.00371321917398612
+"Non-malignant","CXCL","Cell cycle cell","Mac-Cycling",1,0.00128038120121998
+"Non-malignant","CXCL","Cell cycle cell","Mac-FOLR2-LYVE1-resident",1,0.00104433547969192
+"Non-malignant","CXCL","Cell cycle cell","Mac-OLFML3-CX3CR1-resident",1,0.00736327687253004
+"Non-malignant","CXCL","Cell cycle cell","Mac-TNF-CCL4-inflammatory",1,0.00142552265899273
+"Non-malignant","CXCL","Cell cycle cell","Mono-FCN1-S100A8-S100A9",1,0.00133069455368577
+"Non-malignant","CXCL","Cell cycle cell","Myeloid-CLEC10A-APC",1,0.00500004095071917
+"Non-malignant","CXCL","Epithelia","C6-SLC2A1-like",1,0.00403549538385173
+"Non-malignant","CXCL","Epithelia","C7-APOBEC3A-like",1,0.00776732787984741
+"Non-malignant","CXCL","Epithelia","Mac-Cycling",1,0.00268546659395167
+"Non-malignant","CXCL","Epithelia","Mac-FOLR2-LYVE1-resident",1,0.00219095347055429
+"Non-malignant","CXCL","Epithelia","Mac-OLFML3-CX3CR1-resident",1,0.0153411696097568
+"Non-malignant","CXCL","Epithelia","Mac-TNF-CCL4-inflammatory",1,0.00298940897123672
+"Non-malignant","CXCL","Epithelia","Mono-FCN1-S100A8-S100A9",1,0.00279083933533465
+"Non-malignant","CXCL","Epithelia","Myeloid-CLEC10A-APC",1,0.0104443786220268
+"Advanced","CXCL","Fibroblast","C6-SLC2A1-like",1,0.0436849694944337
+"Early","CXCL","Fibroblast","C6-SLC2A1-like",1,0.00395293387649976
+"Non-malignant","CXCL","Fibroblast","C6-SLC2A1-like",1,0.0123007152976765
+"Advanced","CXCL","Fibroblast","C7-APOBEC3A-like",1,0.0322714742038682
+"Early","CXCL","Fibroblast","C7-APOBEC3A-like",1,0.00135723280460788
+"Non-malignant","CXCL","Fibroblast","C7-APOBEC3A-like",1,0.0234955161581992
+"Advanced","CXCL","Fibroblast","Mac-Cycling",1,0.0187988276995389
+"Early","CXCL","Fibroblast","Mac-Cycling",1,0.00173370758619569
+"Non-malignant","CXCL","Fibroblast","Mac-Cycling",1,0.00820844037616103
+"Advanced","CXCL","Fibroblast","Mac-FOLR2-LYVE1-resident",1,0.0378775174641949
+"Early","CXCL","Fibroblast","Mac-FOLR2-LYVE1-resident",1,0.00145197726295317
+"Non-malignant","CXCL","Fibroblast","Mac-FOLR2-LYVE1-resident",1,0.00670373983123925
+"Advanced","CXCL","Fibroblast","Mac-NUPR1-IGF2-stress",1,0.0162640678315814
+"Advanced","CXCL","Fibroblast","Mac-OLFML3-CX3CR1-resident",1,0.0489738010820005
+"Early","CXCL","Fibroblast","Mac-OLFML3-CX3CR1-resident",1,0.00336478045015621
+"Non-malignant","CXCL","Fibroblast","Mac-OLFML3-CX3CR1-resident",1,0.0456994023774828
+"Advanced","CXCL","Fibroblast","Mac-TNF-CCL4-inflammatory",1,0.046836256635187
+"Early","CXCL","Fibroblast","Mac-TNF-CCL4-inflammatory",1,0.00395893238913557
+"Non-malignant","CXCL","Fibroblast","Mac-TNF-CCL4-inflammatory",1,0.00913175197160905
+"Advanced","CXCL","Fibroblast","Mono-FCN1-S100A8-S100A9",1,0.0110001865775046
+"Early","CXCL","Fibroblast","Mono-FCN1-S100A8-S100A9",1,0.00284526191871428
+"Non-malignant","CXCL","Fibroblast","Mono-FCN1-S100A8-S100A9",1,0.00852867115597644
+"Advanced","CXCL","Fibroblast","Myeloid-CLEC10A-APC",1,0.0329158826088384
+"Early","CXCL","Fibroblast","Myeloid-CLEC10A-APC",1,0.00436246919661963
+"Non-malignant","CXCL","Fibroblast","Myeloid-CLEC10A-APC",1,0.0314217061265727
+"Early","CXCL","Mac-Cycling","B cell_plasma",3,0.00413423637257694
+"Advanced","CXCL","Mac-Cycling","CD8 T",1,0.00282031902201178
+"Early","CXCL","Mac-Cycling","CD8 T",4,0.0175860617265893
+"Advanced","CXCL","Mac-Cycling","Cell cycle cell",1,0.00119872268765757
+"Early","CXCL","Mac-Cycling","Cell cycle cell",4,0.0146488720894222
+"Advanced","CXCL","Mac-Cycling","Endothelia",3,0.0304947553880115
+"Early","CXCL","Mac-Cycling","Endothelia",7,0.135027133933475
+"Non-malignant","CXCL","Mac-Cycling","Endothelia",2,0.00948530987338785
+"Early","CXCL","Mac-Cycling","Other T",3,0.0183102626080492
+"Early","CXCL","Mac-Cycling","SMC_myoFibroblast",1,0.00193934226475844
+"Advanced","CXCL","Mac-FOLR2-LYVE1-resident","CD8 T",1,0.00833459489042682
+"Early","CXCL","Mac-FOLR2-LYVE1-resident","CD8 T",1,0.00422635374183896
+"Advanced","CXCL","Mac-FOLR2-LYVE1-resident","Cell cycle cell",1,0.00355375943355193
+"Early","CXCL","Mac-FOLR2-LYVE1-resident","Cell cycle cell",1,0.0019429682171556
+"Advanced","CXCL","Mac-FOLR2-LYVE1-resident","Endothelia",1,0.00456723917063402
+"Early","CXCL","Mac-FOLR2-LYVE1-resident","Endothelia",1,0.0132883521580154
+"Non-malignant","CXCL","Mac-FOLR2-LYVE1-resident","Endothelia",2,0.00738258850245267
+"Early","CXCL","Mac-NUPR1-IGF2-stress","B cell_plasma",1,0.000289639898970622
+"Early","CXCL","Mac-NUPR1-IGF2-stress","CD8 T",2,0.0063543922503546
+"Early","CXCL","Mac-NUPR1-IGF2-stress","Cell cycle cell",2,0.00338393824803138
+"Advanced","CXCL","Mac-NUPR1-IGF2-stress","Endothelia",2,0.0223761448741892
+"Early","CXCL","Mac-NUPR1-IGF2-stress","Endothelia",1,0.00315189591956297
+"Non-malignant","CXCL","Mac-NUPR1-IGF2-stress","Endothelia",1,0.000110670320358482
+"Early","CXCL","Mac-NUPR1-IGF2-stress","Other T",1,0.00128919935681078
+"Early","CXCL","Mac-OLFML3-CX3CR1-resident","B cell_plasma",2,0.0010364784852335
+"Advanced","CXCL","Mac-OLFML3-CX3CR1-resident","CD8 T",1,0.0100754512728211
+"Early","CXCL","Mac-OLFML3-CX3CR1-resident","CD8 T",3,0.0151524600082406
+"Advanced","CXCL","Mac-OLFML3-CX3CR1-resident","Cell cycle cell",1,0.00430036758405374
+"Early","CXCL","Mac-OLFML3-CX3CR1-resident","Cell cycle cell",3,0.00863582012124401
+"Advanced","CXCL","Mac-OLFML3-CX3CR1-resident","Endothelia",2,0.0203939955254659
+"Early","CXCL","Mac-OLFML3-CX3CR1-resident","Endothelia",5,0.0615032259458315
+"Non-malignant","CXCL","Mac-OLFML3-CX3CR1-resident","Endothelia",3,0.0355763133727793
+"Early","CXCL","Mac-OLFML3-CX3CR1-resident","Other T",2,0.00460648575752419
+"Advanced","CXCL","Mac-TNF-CCL4-inflammatory","CD8 T",1,0.00292285846484371
+"Early","CXCL","Mac-TNF-CCL4-inflammatory","CD8 T",1,0.0111995365706283
+"Advanced","CXCL","Mac-TNF-CCL4-inflammatory","Cell cycle cell",1,0.00124237857180332
+"Early","CXCL","Mac-TNF-CCL4-inflammatory","Cell cycle cell",1,0.00516828121437677
+"Advanced","CXCL","Mac-TNF-CCL4-inflammatory","Endothelia",3,0.0390726117375126
+"Early","CXCL","Mac-TNF-CCL4-inflammatory","Endothelia",3,0.108524645617571
+"Non-malignant","CXCL","Mac-TNF-CCL4-inflammatory","Endothelia",3,0.133410924044876
+"Early","CXCL","Mono-FCN1-S100A8-S100A9","B cell_plasma",1,0.000552422724905695
+"Advanced","CXCL","Mono-FCN1-S100A8-S100A9","CD8 T",1,0.00220233064672184
+"Early","CXCL","Mono-FCN1-S100A8-S100A9","CD8 T",2,0.00525682841247327
+"Advanced","CXCL","Mono-FCN1-S100A8-S100A9","Cell cycle cell",1,0.000935725115907269
+"Early","CXCL","Mono-FCN1-S100A8-S100A9","Cell cycle cell",2,0.0032951292533293
+"Advanced","CXCL","Mono-FCN1-S100A8-S100A9","Endothelia",3,0.0429372848588475
+"Early","CXCL","Mono-FCN1-S100A8-S100A9","Endothelia",2,0.0503766884900536
+"Non-malignant","CXCL","Mono-FCN1-S100A8-S100A9","Endothelia",3,0.0250636582456397
+"Early","CXCL","Mono-FCN1-S100A8-S100A9","Other T",1,0.00245662825423777
+"Advanced","CXCL","Myeloid-CLEC10A-APC","CD8 T",1,0.00489586790504084
+"Early","CXCL","Myeloid-CLEC10A-APC","CD8 T",1,0.0102510629798171
+"Advanced","CXCL","Myeloid-CLEC10A-APC","Cell cycle cell",1,0.00208338836323926
+"Early","CXCL","Myeloid-CLEC10A-APC","Cell cycle cell",1,0.00472814408524714
+"Advanced","CXCL","Myeloid-CLEC10A-APC","Endothelia",3,0.0597639962959295
+"Early","CXCL","Myeloid-CLEC10A-APC","Endothelia",3,0.15681294545956
+"Non-malignant","CXCL","Myeloid-CLEC10A-APC","Endothelia",3,0.115285258903166
+"Non-malignant","CXCL","SMC_myoFibroblast","C6-SLC2A1-like",1,0.00373033372248648
+"Non-malignant","CXCL","SMC_myoFibroblast","C7-APOBEC3A-like",1,0.00718200232158249
+"Non-malignant","CXCL","SMC_myoFibroblast","Mac-OLFML3-CX3CR1-resident",1,0.0141932632514237
+"Non-malignant","CXCL","SMC_myoFibroblast","Mac-TNF-CCL4-inflammatory",1,0.00276313225488028
+"Non-malignant","CXCL","SMC_myoFibroblast","Mono-FCN1-S100A8-S100A9",1,0.00257955402175365
+"Non-malignant","CXCL","SMC_myoFibroblast","Myeloid-CLEC10A-APC",1,0.00965928138082851
+"Advanced","TGFb","B cell_plasma","C6-SLC2A1-like",1,0.0004758409823269
+"Early","TGFb","B cell_plasma","C6-SLC2A1-like",1,0.00024768188878814
+"Early","TGFb","B cell_plasma","C7-APOBEC3A-like",1,9.12257177953405e-05
+"Early","TGFb","B cell_plasma","Mac-OLFML3-CX3CR1-resident",1,0.000409709612207817
+"Advanced","TGFb","B cell_plasma","Myeloid-CLEC10A-APC",1,0.000293071273566039
+"Advanced","TGFb","C6-SLC2A1-like","C6-SLC2A1-like",2,0.00518342248103269
+"Early","TGFb","C6-SLC2A1-like","C6-SLC2A1-like",1,0.00517777805260264
+"Non-malignant","TGFb","C6-SLC2A1-like","C6-SLC2A1-like",1,0.0123426624863085
+"Early","TGFb","C6-SLC2A1-like","C7-APOBEC3A-like",2,0.0119215509273992
+"Non-malignant","TGFb","C6-SLC2A1-like","Cell cycle cell",1,0.00560661783107436
+"Non-malignant","TGFb","C6-SLC2A1-like","Endothelia",2,0.0107982496509635
+"Advanced","TGFb","C6-SLC2A1-like","Epithelia",1,0.000670828418293465
+"Early","TGFb","C6-SLC2A1-like","Epithelia",2,0.00148775103282712
+"Advanced","TGFb","C6-SLC2A1-like","Fibroblast",1,0.00197435796147698
+"Early","TGFb","C6-SLC2A1-like","Fibroblast",3,0.00394783889337395
+"Non-malignant","TGFb","C6-SLC2A1-like","Fibroblast",1,0.00159631323128477
+"Advanced","TGFb","C6-SLC2A1-like","Mac-Cycling",1,0.0022465110240412
+"Early","TGFb","C6-SLC2A1-like","Mac-Cycling",1,0.00373325775092188
+"Non-malignant","TGFb","C6-SLC2A1-like","Mac-Cycling",1,0.0208411057240285
+"Advanced","TGFb","C6-SLC2A1-like","Mac-FOLR2-LYVE1-resident",1,0.00271106386456793
+"Non-malignant","TGFb","C6-SLC2A1-like","Mac-FOLR2-LYVE1-resident",1,0.00536533759742701
+"Advanced","TGFb","C6-SLC2A1-like","Mac-OLFML3-CX3CR1-resident",1,0.00617232315021102
+"Early","TGFb","C6-SLC2A1-like","Mac-OLFML3-CX3CR1-resident",1,0.00853741855823587
+"Non-malignant","TGFb","C6-SLC2A1-like","Mac-OLFML3-CX3CR1-resident",1,0.0130508857633443
+"Advanced","TGFb","C6-SLC2A1-like","Myeloid",1,0.00174151528684357
+"Advanced","TGFb","C6-SLC2A1-like","Myeloid-CLEC10A-APC",2,0.00429602635830588
+"Early","TGFb","C6-SLC2A1-like","Myeloid-CLEC10A-APC",1,0.0044404805799919
+"Non-malignant","TGFb","C6-SLC2A1-like","Myeloid-CLEC10A-APC",1,0.00739146153333675
+"Advanced","TGFb","C6-SLC2A1-like","SMC_myoFibroblast",1,0.00105507951390428
+"Early","TGFb","C6-SLC2A1-like","SMC_myoFibroblast",1,0.00408770054319238
+"Advanced","TGFb","C7-APOBEC3A-like","C6-SLC2A1-like",2,0.0237182027034026
+"Early","TGFb","C7-APOBEC3A-like","C6-SLC2A1-like",1,0.00783045012466177
+"Non-malignant","TGFb","C7-APOBEC3A-like","C6-SLC2A1-like",1,0.0111299550435243
+"Advanced","TGFb","C7-APOBEC3A-like","C7-APOBEC3A-like",1,0.00670058879357784
+"Early","TGFb","C7-APOBEC3A-like","C7-APOBEC3A-like",2,0.017996494236296
+"Advanced","TGFb","C7-APOBEC3A-like","Cell cycle cell",1,0.00328073656363441
+"Non-malignant","TGFb","C7-APOBEC3A-like","Cell cycle cell",1,0.00505594485670577
+"Non-malignant","TGFb","C7-APOBEC3A-like","Endothelia",2,0.0100129057945478
+"Advanced","TGFb","C7-APOBEC3A-like","Epithelia",1,0.00309166622397095
+"Early","TGFb","C7-APOBEC3A-like","Epithelia",2,0.00225502549186352
+"Advanced","TGFb","C7-APOBEC3A-like","Fibroblast",2,0.0117738835351471
+"Early","TGFb","C7-APOBEC3A-like","Fibroblast",3,0.00597873850536133
+"Non-malignant","TGFb","C7-APOBEC3A-like","Fibroblast",1,0.00143955739587915
+"Advanced","TGFb","C7-APOBEC3A-like","Mac-Cycling",1,0.0102956203643756
+"Early","TGFb","C7-APOBEC3A-like","Mac-Cycling",1,0.00565007831462455
+"Non-malignant","TGFb","C7-APOBEC3A-like","Mac-Cycling",1,0.0187915840562851
+"Advanced","TGFb","C7-APOBEC3A-like","Mac-FOLR2-LYVE1-resident",1,0.0124039447481044
+"Non-malignant","TGFb","C7-APOBEC3A-like","Mac-FOLR2-LYVE1-resident",1,0.004838402303123
+"Advanced","TGFb","C7-APOBEC3A-like","Mac-OLFML3-CX3CR1-resident",1,0.0278941326450667
+"Early","TGFb","C7-APOBEC3A-like","Mac-OLFML3-CX3CR1-resident",1,0.0128889969070157
+"Non-malignant","TGFb","C7-APOBEC3A-like","Mac-OLFML3-CX3CR1-resident",1,0.0117683066414211
+"Advanced","TGFb","C7-APOBEC3A-like","Myeloid",1,0.00799575613686049
+"Advanced","TGFb","C7-APOBEC3A-like","Myeloid-CLEC10A-APC",2,0.0196717509316114
+"Early","TGFb","C7-APOBEC3A-like","Myeloid-CLEC10A-APC",1,0.00671797222855816
+"Non-malignant","TGFb","C7-APOBEC3A-like","Myeloid-CLEC10A-APC",1,0.00666547445529473
+"Advanced","TGFb","C7-APOBEC3A-like","SMC_myoFibroblast",2,0.00773569907677194
+"Early","TGFb","C7-APOBEC3A-like","SMC_myoFibroblast",1,0.00618449142163483
+"Advanced","TGFb","CD8 T","C6-SLC2A1-like",2,0.00871900743529256
+"Early","TGFb","CD8 T","C6-SLC2A1-like",1,0.00227501930476582
+"Non-malignant","TGFb","CD8 T","C6-SLC2A1-like",1,0.00486746964763273
+"Advanced","TGFb","CD8 T","C7-APOBEC3A-like",1,0.00245443664278662
+"Early","TGFb","CD8 T","C7-APOBEC3A-like",2,0.00524856813607243
+"Advanced","TGFb","CD8 T","Mac-Cycling",1,0.00377997208477588
+"Early","TGFb","CD8 T","Mac-Cycling",1,0.00163898976734234
+"Non-malignant","TGFb","CD8 T","Mac-Cycling",1,0.00825800219196026
+"Advanced","TGFb","CD8 T","Mac-FOLR2-LYVE1-resident",1,0.00456017787288678
+"Non-malignant","TGFb","CD8 T","Mac-FOLR2-LYVE1-resident",1,0.00211102994388551
+"Advanced","TGFb","CD8 T","Mac-OLFML3-CX3CR1-resident",1,0.010357712161644
+"Early","TGFb","CD8 T","Mac-OLFML3-CX3CR1-resident",1,0.00375829832251431
+"Non-malignant","TGFb","CD8 T","Mac-OLFML3-CX3CR1-resident",1,0.00515291228096668
+"Advanced","TGFb","CD8 T","Myeloid-CLEC10A-APC",2,0.00722730423726097
+"Early","TGFb","CD8 T","Myeloid-CLEC10A-APC",1,0.00195025419931069
+"Non-malignant","TGFb","CD8 T","Myeloid-CLEC10A-APC",1,0.00290959054393449
+"Advanced","TGFb","Cell cycle cell","C6-SLC2A1-like",2,0.00710924998851344
+"Early","TGFb","Cell cycle cell","C6-SLC2A1-like",1,0.0033597519441975
+"Non-malignant","TGFb","Cell cycle cell","C6-SLC2A1-like",1,0.00370576695926894
+"Advanced","TGFb","Cell cycle cell","C7-APOBEC3A-like",1,0.00200051966955616
+"Early","TGFb","Cell cycle cell","C7-APOBEC3A-like",2,0.00774530822837616
+"Advanced","TGFb","Cell cycle cell","Mac-Cycling",1,0.00308167142134249
+"Early","TGFb","Cell cycle cell","Mac-Cycling",1,0.00242119848954916
+"Non-malignant","TGFb","Cell cycle cell","Mac-Cycling",1,0.00629106750521126
+"Advanced","TGFb","Cell cycle cell","Mac-FOLR2-LYVE1-resident",1,0.00371828230111551
+"Non-malignant","TGFb","Cell cycle cell","Mac-FOLR2-LYVE1-resident",1,0.00160670781061415
+"Advanced","TGFb","Cell cycle cell","Mac-OLFML3-CX3CR1-resident",1,0.00845457216918783
+"Early","TGFb","Cell cycle cell","Mac-OLFML3-CX3CR1-resident",1,0.00554632916437542
+"Non-malignant","TGFb","Cell cycle cell","Mac-OLFML3-CX3CR1-resident",1,0.00392370674901203
+"Advanced","TGFb","Cell cycle cell","Myeloid-CLEC10A-APC",2,0.00589258980791679
+"Early","TGFb","Cell cycle cell","Myeloid-CLEC10A-APC",1,0.00288058541752327
+"Non-malignant","TGFb","Cell cycle cell","Myeloid-CLEC10A-APC",1,0.0022146314641813
+"Advanced","TGFb","Endothelia","C6-SLC2A1-like",2,0.0254003583027286
+"Early","TGFb","Endothelia","C6-SLC2A1-like",1,0.00640677296814272
+"Non-malignant","TGFb","Endothelia","C6-SLC2A1-like",1,0.00741113395046726
+"Advanced","TGFb","Endothelia","C7-APOBEC3A-like",1,0.00734684845243134
+"Early","TGFb","Endothelia","C7-APOBEC3A-like",2,0.0147416450954931
+"Advanced","TGFb","Endothelia","Mac-Cycling",1,0.0112872151839611
+"Early","TGFb","Endothelia","Mac-Cycling",1,0.00462061326087079
+"Non-malignant","TGFb","Endothelia","Mac-Cycling",1,0.0125521025595958
+"Advanced","TGFb","Endothelia","Mac-FOLR2-LYVE1-resident",1,0.0135976087702575
+"Non-malignant","TGFb","Endothelia","Mac-FOLR2-LYVE1-resident",1,0.00321686737354073
+"Advanced","TGFb","Endothelia","Mac-OLFML3-CX3CR1-resident",1,0.0305621378510802
+"Early","TGFb","Endothelia","Mac-OLFML3-CX3CR1-resident",1,0.0105573133000315
+"Non-malignant","TGFb","Endothelia","Mac-OLFML3-CX3CR1-resident",1,0.0078423851678357
+"Advanced","TGFb","Endothelia","Myeloid-CLEC10A-APC",2,0.0215655931926528
+"Early","TGFb","Endothelia","Myeloid-CLEC10A-APC",1,0.00549521831106215
+"Non-malignant","TGFb","Endothelia","Myeloid-CLEC10A-APC",1,0.00443299753479429
+"Advanced","TGFb","Fibroblast","C6-SLC2A1-like",1,0.00119863062301104
+"Early","TGFb","Fibroblast","C6-SLC2A1-like",2,0.000440832938429086
+"Early","TGFb","Fibroblast","C7-APOBEC3A-like",6,0.00160143107363464
+"Early","TGFb","Fibroblast","Mac-Cycling",2,0.000317432077917459
+"Early","TGFb","Fibroblast","Mac-OLFML3-CX3CR1-resident",3,0.00114665133993219
+"Advanced","TGFb","Fibroblast","Myeloid-CLEC10A-APC",1,0.000200484318538294
+"Early","TGFb","Fibroblast","Myeloid-CLEC10A-APC",2,0.000377807603012296
+"Advanced","TGFb","Mac-Cycling","C6-SLC2A1-like",2,0.0171679414234909
+"Early","TGFb","Mac-Cycling","C6-SLC2A1-like",1,0.00736310817762304
+"Non-malignant","TGFb","Mac-Cycling","C6-SLC2A1-like",1,0.00597896157835095
+"Advanced","TGFb","Mac-Cycling","C7-APOBEC3A-like",1,0.00484254440822106
+"Early","TGFb","Mac-Cycling","C7-APOBEC3A-like",2,0.0169278174584729
+"Advanced","TGFb","Mac-Cycling","Cell cycle cell",1,0.00236874100369584
+"Non-malignant","TGFb","Mac-Cycling","Cell cycle cell",1,0.00271180780019308
+"Non-malignant","TGFb","Mac-Cycling","Endothelia",2,0.00544765579794932
+"Advanced","TGFb","Mac-Cycling","Epithelia",1,0.00223216135804403
+"Early","TGFb","Mac-Cycling","Epithelia",2,0.00211959782239006
+"Advanced","TGFb","Mac-Cycling","Fibroblast",2,0.00851515910994128
+"Early","TGFb","Mac-Cycling","Fibroblast",3,0.00562052691841485
+"Advanced","TGFb","Mac-Cycling","Mac-Cycling",1,0.00744816428674261
+"Early","TGFb","Mac-Cycling","Mac-Cycling",1,0.00531216998626667
+"Non-malignant","TGFb","Mac-Cycling","Mac-Cycling",1,0.0101340900596999
+"Advanced","TGFb","Mac-Cycling","Mac-FOLR2-LYVE1-resident",1,0.00897868006051399
+"Non-malignant","TGFb","Mac-Cycling","Mac-FOLR2-LYVE1-resident",1,0.00259427571624226
+"Advanced","TGFb","Mac-Cycling","Mac-OLFML3-CX3CR1-resident",1,0.0202791922153531
+"Early","TGFb","Mac-Cycling","Mac-OLFML3-CX3CR1-resident",1,0.0121234365686866
+"Non-malignant","TGFb","Mac-Cycling","Mac-OLFML3-CX3CR1-resident",1,0.00632807385650994
+"Advanced","TGFb","Mac-Cycling","Myeloid",1,0.00578065752603341
+"Advanced","TGFb","Mac-Cycling","Myeloid-CLEC10A-APC",2,0.0142353801708716
+"Early","TGFb","Mac-Cycling","Myeloid-CLEC10A-APC",1,0.00631660319614322
+"Non-malignant","TGFb","Mac-Cycling","Myeloid-CLEC10A-APC",1,0.0035753028748359
+"Advanced","TGFb","Mac-Cycling","SMC_myoFibroblast",2,0.00558752036680424
+"Early","TGFb","Mac-Cycling","SMC_myoFibroblast",1,0.00581495611782908
+"Advanced","TGFb","Mac-FOLR2-LYVE1-resident","C6-SLC2A1-like",2,0.0061059630180378
+"Non-malignant","TGFb","Mac-FOLR2-LYVE1-resident","C6-SLC2A1-like",1,0.00414326883060213
+"Non-malignant","TGFb","Mac-FOLR2-LYVE1-resident","Cell cycle cell",1,0.00187803842947141
+"Non-malignant","TGFb","Mac-FOLR2-LYVE1-resident","Endothelia",2,0.00377282652572561
+"Advanced","TGFb","Mac-FOLR2-LYVE1-resident","Epithelia",1,0.000790503213980649
+"Advanced","TGFb","Mac-FOLR2-LYVE1-resident","Fibroblast",1,0.00232604639682505
+"Advanced","TGFb","Mac-FOLR2-LYVE1-resident","Mac-Cycling",1,0.00264654898674489
+"Non-malignant","TGFb","Mac-FOLR2-LYVE1-resident","Mac-Cycling",1,0.00703370246003331
+"Advanced","TGFb","Mac-FOLR2-LYVE1-resident","Mac-FOLR2-LYVE1-resident",1,0.00319356033573277
+"Non-malignant","TGFb","Mac-FOLR2-LYVE1-resident","Mac-FOLR2-LYVE1-resident",1,0.00179640599683685
+"Advanced","TGFb","Mac-FOLR2-LYVE1-resident","Mac-OLFML3-CX3CR1-resident",1,0.00726634239021731
+"Non-malignant","TGFb","Mac-FOLR2-LYVE1-resident","Mac-OLFML3-CX3CR1-resident",1,0.00438692493855242
+"Advanced","TGFb","Mac-FOLR2-LYVE1-resident","Myeloid",1,0.00205181319114397
+"Advanced","TGFb","Mac-FOLR2-LYVE1-resident","Myeloid-CLEC10A-APC",2,0.00506080807484941
+"Non-malignant","TGFb","Mac-FOLR2-LYVE1-resident","Myeloid-CLEC10A-APC",1,0.00247610198665537
+"Advanced","TGFb","Mac-FOLR2-LYVE1-resident","SMC_myoFibroblast",1,0.00124322269725312
+"Advanced","TGFb","Mac-OLFML3-CX3CR1-resident","C6-SLC2A1-like",2,0.015250770542725
+"Early","TGFb","Mac-OLFML3-CX3CR1-resident","C6-SLC2A1-like",1,0.00540490503555206
+"Non-malignant","TGFb","Mac-OLFML3-CX3CR1-resident","C6-SLC2A1-like",1,0.010644385111074
+"Advanced","TGFb","Mac-OLFML3-CX3CR1-resident","C7-APOBEC3A-like",1,0.0042998124893483
+"Early","TGFb","Mac-OLFML3-CX3CR1-resident","C7-APOBEC3A-like",2,0.0124425609752749
+"Advanced","TGFb","Mac-OLFML3-CX3CR1-resident","Cell cycle cell",1,0.00210267670811685
+"Non-malignant","TGFb","Mac-OLFML3-CX3CR1-resident","Cell cycle cell",1,0.0048355426850083
+"Non-malignant","TGFb","Mac-OLFML3-CX3CR1-resident","Endothelia",2,0.00971329954283769
+"Advanced","TGFb","Mac-OLFML3-CX3CR1-resident","Epithelia",1,0.00198142049388276
+"Early","TGFb","Mac-OLFML3-CX3CR1-resident","Epithelia",2,0.00155331144050279
+"Advanced","TGFb","Mac-OLFML3-CX3CR1-resident","Fibroblast",2,0.00756240556021933
+"Early","TGFb","Mac-OLFML3-CX3CR1-resident","Fibroblast",3,0.00412150642089858
+"Non-malignant","TGFb","Mac-OLFML3-CX3CR1-resident","Fibroblast",1,0.00137683138634617
+"Advanced","TGFb","Mac-OLFML3-CX3CR1-resident","Mac-Cycling",1,0.0066153467595337
+"Early","TGFb","Mac-OLFML3-CX3CR1-resident","Mac-Cycling",1,0.00389726804043636
+"Non-malignant","TGFb","Mac-OLFML3-CX3CR1-resident","Mac-Cycling",1,0.017970136202846
+"Advanced","TGFb","Mac-OLFML3-CX3CR1-resident","Mac-FOLR2-LYVE1-resident",1,0.00797610293087716
+"Non-malignant","TGFb","Mac-OLFML3-CX3CR1-resident","Mac-FOLR2-LYVE1-resident",1,0.00462751873812243
+"Advanced","TGFb","Mac-OLFML3-CX3CR1-resident","Mac-OLFML3-CX3CR1-resident",1,0.0180377445183776
+"Early","TGFb","Mac-OLFML3-CX3CR1-resident","Mac-OLFML3-CX3CR1-resident",1,0.00891059858735608
+"Non-malignant","TGFb","Mac-OLFML3-CX3CR1-resident","Mac-OLFML3-CX3CR1-resident",1,0.0112546310829629
+"Advanced","TGFb","Mac-OLFML3-CX3CR1-resident","Myeloid",1,0.0051333281953724
+"Advanced","TGFb","Mac-OLFML3-CX3CR1-resident","Myeloid-CLEC10A-APC",2,0.0126447553307026
+"Early","TGFb","Mac-OLFML3-CX3CR1-resident","Myeloid-CLEC10A-APC",1,0.00463541617483035
+"Non-malignant","TGFb","Mac-OLFML3-CX3CR1-resident","Myeloid-CLEC10A-APC",1,0.00637489996839231
+"Advanced","TGFb","Mac-OLFML3-CX3CR1-resident","SMC_myoFibroblast",1,0.00311414585539009
+"Early","TGFb","Mac-OLFML3-CX3CR1-resident","SMC_myoFibroblast",1,0.00426716324925561
+"Non-malignant","TGFb","Mac-TNF-CCL4-inflammatory","C6-SLC2A1-like",1,0.00398305111726539
+"Non-malignant","TGFb","Mac-TNF-CCL4-inflammatory","Cell cycle cell",1,0.00180506006779431
+"Non-malignant","TGFb","Mac-TNF-CCL4-inflammatory","Endothelia",2,0.00352551884734654
+"Non-malignant","TGFb","Mac-TNF-CCL4-inflammatory","Mac-Cycling",1,0.00676506219965087
+"Non-malignant","TGFb","Mac-TNF-CCL4-inflammatory","Mac-FOLR2-LYVE1-resident",1,0.00172652819820333
+"Non-malignant","TGFb","Mac-TNF-CCL4-inflammatory","Mac-OLFML3-CX3CR1-resident",1,0.0042178094297043
+"Non-malignant","TGFb","Mac-TNF-CCL4-inflammatory","Myeloid-CLEC10A-APC",1,0.00237990103796538
+"Advanced","TGFb","Mono-FCN1-S100A8-S100A9","C6-SLC2A1-like",2,0.00567437780603456
+"Early","TGFb","Mono-FCN1-S100A8-S100A9","C6-SLC2A1-like",1,0.00330477471112396
+"Non-malignant","TGFb","Mono-FCN1-S100A8-S100A9","C6-SLC2A1-like",1,0.0111375673108159
+"Early","TGFb","Mono-FCN1-S100A8-S100A9","C7-APOBEC3A-like",2,0.007618856093822
+"Non-malignant","TGFb","Mono-FCN1-S100A8-S100A9","Cell cycle cell",1,0.00505791844868444
+"Non-malignant","TGFb","Mono-FCN1-S100A8-S100A9","Endothelia",2,0.00980742810044285
+"Advanced","TGFb","Mono-FCN1-S100A8-S100A9","Epithelia",1,0.000734506046044574
+"Early","TGFb","Mono-FCN1-S100A8-S100A9","Epithelia",2,0.000948068118429327
+"Advanced","TGFb","Mono-FCN1-S100A8-S100A9","Fibroblast",1,0.00216150756919057
+"Early","TGFb","Mono-FCN1-S100A8-S100A9","Fibroblast",3,0.00251727079794587
+"Non-malignant","TGFb","Mono-FCN1-S100A8-S100A9","Fibroblast",1,0.00143988076364288
+"Advanced","TGFb","Mono-FCN1-S100A8-S100A9","Mac-Cycling",1,0.0024593944788627
+"Early","TGFb","Mono-FCN1-S100A8-S100A9","Mac-Cycling",1,0.00238154255794101
+"Non-malignant","TGFb","Mono-FCN1-S100A8-S100A9","Mac-Cycling",1,0.0188182023310489
+"Advanced","TGFb","Mono-FCN1-S100A8-S100A9","Mac-FOLR2-LYVE1-resident",1,0.00296783824427225
+"Non-malignant","TGFb","Mono-FCN1-S100A8-S100A9","Mac-FOLR2-LYVE1-resident",1,0.00483999141994538
+"Advanced","TGFb","Mono-FCN1-S100A8-S100A9","Mac-OLFML3-CX3CR1-resident",1,0.00675470515130711
+"Early","TGFb","Mono-FCN1-S100A8-S100A9","Mac-OLFML3-CX3CR1-resident",1,0.00545576778462453
+"Non-malignant","TGFb","Mono-FCN1-S100A8-S100A9","Mac-OLFML3-CX3CR1-resident",1,0.0117785278014414
+"Advanced","TGFb","Mono-FCN1-S100A8-S100A9","Myeloid",1,0.00190663587684819
+"Advanced","TGFb","Mono-FCN1-S100A8-S100A9","Myeloid-CLEC10A-APC",2,0.00470301923504823
+"Early","TGFb","Mono-FCN1-S100A8-S100A9","Myeloid-CLEC10A-APC",1,0.00283342672491443
+"Non-malignant","TGFb","Mono-FCN1-S100A8-S100A9","Myeloid-CLEC10A-APC",1,0.00666814931665115
+"Advanced","TGFb","Mono-FCN1-S100A8-S100A9","SMC_myoFibroblast",1,0.00115519147754061
+"Early","TGFb","Mono-FCN1-S100A8-S100A9","SMC_myoFibroblast",1,0.00260825054825914
+"Advanced","TGFb","Myeloid","C6-SLC2A1-like",2,0.00611193578235432
+"Early","TGFb","Myeloid","C6-SLC2A1-like",1,0.004613285875055
+"Non-malignant","TGFb","Myeloid","C6-SLC2A1-like",1,0.00744111114937858
+"Advanced","TGFb","Myeloid","C7-APOBEC3A-like",1,0.00171947221527543
+"Early","TGFb","Myeloid","C7-APOBEC3A-like",2,0.0106259522845987
+"Advanced","TGFb","Myeloid","Mac-Cycling",1,0.0026491391381174
+"Early","TGFb","Myeloid","Mac-Cycling",1,0.00332572371735906
+"Non-malignant","TGFb","Myeloid","Mac-Cycling",1,0.0125966315396391
+"Advanced","TGFb","Myeloid","Mac-FOLR2-LYVE1-resident",1,0.00319668412581286
+"Non-malignant","TGFb","Myeloid","Mac-FOLR2-LYVE1-resident",1,0.00323065347816598
+"Advanced","TGFb","Myeloid","Mac-OLFML3-CX3CR1-resident",1,0.00727342091487901
+"Early","TGFb","Myeloid","Mac-OLFML3-CX3CR1-resident",1,0.00760945301481444
+"Non-malignant","TGFb","Myeloid","Mac-OLFML3-CX3CR1-resident",1,0.00787312529941548
+"Advanced","TGFb","Myeloid","Myeloid-CLEC10A-APC",2,0.00506575964481109
+"Early","TGFb","Myeloid","Myeloid-CLEC10A-APC",1,0.00395605046364496
+"Non-malignant","TGFb","Myeloid","Myeloid-CLEC10A-APC",1,0.00445177693452711
+"Advanced","TGFb","Myeloid-CLEC10A-APC","C6-SLC2A1-like",2,0.0215871512758306
+"Early","TGFb","Myeloid-CLEC10A-APC","C6-SLC2A1-like",1,0.00835482891252427
+"Non-malignant","TGFb","Myeloid-CLEC10A-APC","C6-SLC2A1-like",1,0.0152600833095533
+"Advanced","TGFb","Myeloid-CLEC10A-APC","C7-APOBEC3A-like",1,0.00609546133705476
+"Early","TGFb","Myeloid-CLEC10A-APC","C7-APOBEC3A-like",2,0.019194789552321
+"Advanced","TGFb","Myeloid-CLEC10A-APC","Cell cycle cell",1,0.00298352691041158
+"Non-malignant","TGFb","Myeloid-CLEC10A-APC","Cell cycle cell",1,0.00693846737451005
+"Non-malignant","TGFb","Myeloid-CLEC10A-APC","Endothelia",2,0.0134422104907318
+"Advanced","TGFb","Myeloid-CLEC10A-APC","Epithelia",1,0.00281155697542671
+"Early","TGFb","Myeloid-CLEC10A-APC","Epithelia",2,0.00240710958014516
+"Advanced","TGFb","Myeloid-CLEC10A-APC","Fibroblast",2,0.0107130976092617
+"Early","TGFb","Myeloid-CLEC10A-APC","Fibroblast",3,0.00638087833097072
+"Non-malignant","TGFb","Myeloid-CLEC10A-APC","Fibroblast",1,0.00197658261462722
+"Advanced","TGFb","Myeloid-CLEC10A-APC","Mac-Cycling",1,0.00936888934207925
+"Early","TGFb","Myeloid-CLEC10A-APC","Mac-Cycling",1,0.00602933227291322
+"Non-malignant","TGFb","Myeloid-CLEC10A-APC","Mac-Cycling",1,0.025706153722744
+"Advanced","TGFb","Myeloid-CLEC10A-APC","Mac-FOLR2-LYVE1-resident",1,0.0112896036653983
+"Non-malignant","TGFb","Myeloid-CLEC10A-APC","Mac-FOLR2-LYVE1-resident",1,0.00664120898082059
+"Advanced","TGFb","Myeloid-CLEC10A-APC","Mac-OLFML3-CX3CR1-resident",1,0.0254240141591785
+"Early","TGFb","Myeloid-CLEC10A-APC","Mac-OLFML3-CX3CR1-resident",1,0.0137474357313374
+"Non-malignant","TGFb","Myeloid-CLEC10A-APC","Mac-OLFML3-CX3CR1-resident",1,0.0161260393852465
+"Advanced","TGFb","Myeloid-CLEC10A-APC","Myeloid",1,0.00727451925431428
+"Advanced","TGFb","Myeloid-CLEC10A-APC","Myeloid-CLEC10A-APC",2,0.0179027850831008
+"Early","TGFb","Myeloid-CLEC10A-APC","Myeloid-CLEC10A-APC",1,0.00716839038233411
+"Non-malignant","TGFb","Myeloid-CLEC10A-APC","Myeloid-CLEC10A-APC",1,0.00914697401758818
+"Advanced","TGFb","Myeloid-CLEC10A-APC","SMC_myoFibroblast",2,0.00703581881671686
+"Early","TGFb","Myeloid-CLEC10A-APC","SMC_myoFibroblast",1,0.00659919158077151
+"Advanced","TGFb","Other T","C6-SLC2A1-like",2,0.00622387186710342
+"Early","TGFb","Other T","C6-SLC2A1-like",1,0.00146496871065788
+"Non-malignant","TGFb","Other T","C6-SLC2A1-like",1,0.00133834873609993
+"Early","TGFb","Other T","C7-APOBEC3A-like",2,0.00338163424119415
+"Advanced","TGFb","Other T","Mac-Cycling",1,0.00269768186841988
+"Early","TGFb","Other T","Mac-Cycling",1,0.00105516636404083
+"Non-malignant","TGFb","Other T","Mac-Cycling",1,0.00227741281792704
+"Advanced","TGFb","Other T","Mac-FOLR2-LYVE1-resident",1,0.0032552273036991
+"Advanced","TGFb","Other T","Mac-OLFML3-CX3CR1-resident",1,0.00740606959668369
+"Early","TGFb","Other T","Mac-OLFML3-CX3CR1-resident",1,0.00242138844432375
+"Non-malignant","TGFb","Other T","Mac-OLFML3-CX3CR1-resident",1,0.00141789860052177
+"Advanced","TGFb","Other T","Myeloid-CLEC10A-APC",2,0.00515855786001915
+"Early","TGFb","Other T","Myeloid-CLEC10A-APC",1,0.00125569496362782
+"Advanced","TGFb","SMC_myoFibroblast","C6-SLC2A1-like",4,0.0108782009578018
+"Early","TGFb","SMC_myoFibroblast","C6-SLC2A1-like",3,0.00535334425584133
+"Non-malignant","TGFb","SMC_myoFibroblast","C6-SLC2A1-like",2,0.00425960289618963
+"Advanced","TGFb","SMC_myoFibroblast","C7-APOBEC3A-like",1,0.000604800574159733
+"Early","TGFb","SMC_myoFibroblast","C7-APOBEC3A-like",6,0.0123446788091455
+"Advanced","TGFb","SMC_myoFibroblast","Mac-Cycling",2,0.00385270667303807
+"Early","TGFb","SMC_myoFibroblast","Mac-Cycling",3,0.00385743308034507
+"Non-malignant","TGFb","SMC_myoFibroblast","Mac-Cycling",2,0.00723556277274517
+"Advanced","TGFb","SMC_myoFibroblast","Mac-FOLR2-LYVE1-resident",2,0.00464792110114944
+"Non-malignant","TGFb","SMC_myoFibroblast","Mac-FOLR2-LYVE1-resident",2,0.00184630937564396
+"Advanced","TGFb","SMC_myoFibroblast","Mac-OLFML3-CX3CR1-resident",2,0.010556986397415
+"Early","TGFb","SMC_myoFibroblast","Mac-OLFML3-CX3CR1-resident",3,0.00883975679460756
+"Non-malignant","TGFb","SMC_myoFibroblast","Mac-OLFML3-CX3CR1-resident",2,0.00451078333389293
+"Advanced","TGFb","SMC_myoFibroblast","Myeloid-CLEC10A-APC",4,0.00736637078269469
+"Early","TGFb","SMC_myoFibroblast","Myeloid-CLEC10A-APC",3,0.00458958273081143
+"Non-malignant","TGFb","SMC_myoFibroblast","Myeloid-CLEC10A-APC",2,0.00254503798551425
+"Advanced","VEGF","B cell_plasma","Myeloid-CLEC10A-APC",1,0.000300077771935926
+"Advanced","VEGF","C6-SLC2A1-like","Endothelia",4,0.357172639831036
+"Early","VEGF","C6-SLC2A1-like","Endothelia",4,0.158066176759349
+"Non-malignant","VEGF","C6-SLC2A1-like","Endothelia",4,0.152040268757352
+"Advanced","VEGF","C6-SLC2A1-like","Myeloid-CLEC10A-APC",2,0.00992447371587479
+"Advanced","VEGF","C7-APOBEC3A-like","Endothelia",4,0.114397852151329
+"Early","VEGF","C7-APOBEC3A-like","Endothelia",4,0.0640410192137215
+"Non-malignant","VEGF","C7-APOBEC3A-like","Endothelia",4,0.152871770652647
+"Advanced","VEGF","C7-APOBEC3A-like","Myeloid-CLEC10A-APC",2,0.00411395906213079
+"Advanced","VEGF","Cell cycle cell","Myeloid-CLEC10A-APC",2,0.00140686903704434
+"Advanced","VEGF","Endothelia","Myeloid-CLEC10A-APC",1,0.000190005296796034
+"Advanced","VEGF","Epithelia","Myeloid-CLEC10A-APC",2,0.00751978272838624
+"Advanced","VEGF","Fibroblast","Myeloid-CLEC10A-APC",2,0.00262130491026522
+"Advanced","VEGF","Mac-Cycling","Endothelia",4,0.0895627225038498
+"Early","VEGF","Mac-Cycling","Endothelia",4,0.0449365194304395
+"Non-malignant","VEGF","Mac-Cycling","Endothelia",4,0.0299411402590747
+"Advanced","VEGF","Mac-Cycling","Myeloid-CLEC10A-APC",2,0.00322288537963904
+"Advanced","VEGF","Mac-FOLR2-LYVE1-resident","Endothelia",1,0.0161159943863691
+"Non-malignant","VEGF","Mac-FOLR2-LYVE1-resident","Endothelia",3,0.0498268649393661
+"Advanced","VEGF","Mac-FOLR2-LYVE1-resident","Myeloid-CLEC10A-APC",1,0.00101667336059778
+"Advanced","VEGF","Mac-NUPR1-IGF2-stress","Endothelia",3,0.122808104628649
+"Early","VEGF","Mac-NUPR1-IGF2-stress","Endothelia",3,0.0407643716266551
+"Advanced","VEGF","Mac-NUPR1-IGF2-stress","Myeloid-CLEC10A-APC",1,0.00251194996045603
+"Advanced","VEGF","Mac-OLFML3-CX3CR1-resident","Endothelia",4,0.0863766443227096
+"Early","VEGF","Mac-OLFML3-CX3CR1-resident","Endothelia",4,0.0391257895364589
+"Non-malignant","VEGF","Mac-OLFML3-CX3CR1-resident","Endothelia",4,0.0635918138661688
+"Advanced","VEGF","Mac-OLFML3-CX3CR1-resident","Myeloid-CLEC10A-APC",2,0.00245687665510038
+"Advanced","VEGF","Mac-TNF-CCL4-inflammatory","Endothelia",3,0.207096972552182
+"Early","VEGF","Mac-TNF-CCL4-inflammatory","Endothelia",3,0.134279945573137
+"Non-malignant","VEGF","Mac-TNF-CCL4-inflammatory","Endothelia",3,0.0911648999567821
+"Advanced","VEGF","Mac-TNF-CCL4-inflammatory","Myeloid-CLEC10A-APC",1,0.00435661070457797
+"Advanced","VEGF","Mono-FCN1-S100A8-S100A9","Endothelia",3,0.0947056859037487
+"Early","VEGF","Mono-FCN1-S100A8-S100A9","Endothelia",3,0.126084144487798
+"Advanced","VEGF","Mono-FCN1-S100A8-S100A9","Myeloid-CLEC10A-APC",1,0.00191941653751329
+"Advanced","VEGF","Myeloid","Myeloid-CLEC10A-APC",2,0.00176473453623278
+"Advanced","VEGF","Myeloid-CLEC10A-APC","Endothelia",4,0.351044170031713
+"Early","VEGF","Myeloid-CLEC10A-APC","Endothelia",4,0.167255422772363
+"Non-malignant","VEGF","Myeloid-CLEC10A-APC","Endothelia",4,0.165555747540428
+"Advanced","VEGF","Myeloid-CLEC10A-APC","Myeloid-CLEC10A-APC",2,0.00838377718725197
+"Advanced","VEGF","SMC_myoFibroblast","Myeloid-CLEC10A-APC",2,0.00598672048880989

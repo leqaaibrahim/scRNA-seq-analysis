@@ -1,0 +1,11 @@
+"macrophage_state","n_Advanced","n_Early","n_Non-malignant","testable_Early_vs_Non_malignant","testable_Advanced_vs_Non_malignant","testable_Advanced_vs_Early"
+"C6-SLC2A1-like",4,2,1,FALSE,FALSE,TRUE
+"C7-APOBEC3A-like",2,2,0,FALSE,FALSE,TRUE
+"Mac-Cycling",4,3,0,FALSE,FALSE,TRUE
+"Mac-FOLR2-LYVE1-resident",4,3,3,TRUE,TRUE,TRUE
+"Mac-NUPR1-IGF2-stress",4,3,0,FALSE,FALSE,TRUE
+"Mac-OLFML3-CX3CR1-resident",4,1,1,FALSE,FALSE,FALSE
+"Mac-TNF-CCL4-inflammatory",3,2,0,FALSE,FALSE,TRUE
+"Mono-CDKN1C",0,0,3,FALSE,FALSE,FALSE
+"Mono-FCN1-S100A8-S100A9",1,2,4,TRUE,FALSE,FALSE
+"Myeloid-CLEC10A-APC",2,1,3,FALSE,TRUE,FALSE
