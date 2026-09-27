@@ -1,0 +1,218 @@
+"sample","stage","identity","n_cells"
+"GSM5599220_Norm1","Non-malignant","B cell_plasma",15
+"GSM5599220_Norm1","Non-malignant","C7-APOBEC3A-like",1
+"GSM5599220_Norm1","Non-malignant","CD8 T",813
+"GSM5599220_Norm1","Non-malignant","Cell cycle cell",17
+"GSM5599220_Norm1","Non-malignant","Endothelia",107
+"GSM5599220_Norm1","Non-malignant","Epithelia",2434
+"GSM5599220_Norm1","Non-malignant","Fibroblast",2141
+"GSM5599220_Norm1","Non-malignant","Mac-FOLR2-LYVE1-resident",5
+"GSM5599220_Norm1","Non-malignant","Mac-NUPR1-IGF2-stress",4
+"GSM5599220_Norm1","Non-malignant","Mono-CDKN1C",25
+"GSM5599220_Norm1","Non-malignant","Mono-FCN1-S100A8-S100A9",2
+"GSM5599220_Norm1","Non-malignant","Myeloid",7
+"GSM5599220_Norm1","Non-malignant","Myeloid-CLEC10A-APC",1
+"GSM5599220_Norm1","Non-malignant","Other T",175
+"GSM5599220_Norm1","Non-malignant","SMC_myoFibroblast",84
+"GSM5599221_Norm2","Non-malignant","B cell_plasma",20
+"GSM5599221_Norm2","Non-malignant","CD8 T",468
+"GSM5599221_Norm2","Non-malignant","Cell cycle cell",21
+"GSM5599221_Norm2","Non-malignant","Endothelia",157
+"GSM5599221_Norm2","Non-malignant","Epithelia",930
+"GSM5599221_Norm2","Non-malignant","Fibroblast",2488
+"GSM5599221_Norm2","Non-malignant","Mac-Cycling",6
+"GSM5599221_Norm2","Non-malignant","Mac-FOLR2-LYVE1-resident",35
+"GSM5599221_Norm2","Non-malignant","Mac-NUPR1-IGF2-stress",4
+"GSM5599221_Norm2","Non-malignant","Mac-OLFML3-CX3CR1-resident",7
+"GSM5599221_Norm2","Non-malignant","Mac-TNF-CCL4-inflammatory",1
+"GSM5599221_Norm2","Non-malignant","Mono-CDKN1C",17
+"GSM5599221_Norm2","Non-malignant","Mono-FCN1-S100A8-S100A9",127
+"GSM5599221_Norm2","Non-malignant","Myeloid",47
+"GSM5599221_Norm2","Non-malignant","Myeloid-CLEC10A-APC",24
+"GSM5599221_Norm2","Non-malignant","Other T",144
+"GSM5599221_Norm2","Non-malignant","SMC_myoFibroblast",175
+"GSM5599222_Norm3","Non-malignant","B cell_plasma",28
+"GSM5599222_Norm3","Non-malignant","C6-SLC2A1-like",2
+"GSM5599222_Norm3","Non-malignant","C7-APOBEC3A-like",4
+"GSM5599222_Norm3","Non-malignant","CD8 T",1034
+"GSM5599222_Norm3","Non-malignant","Cell cycle cell",43
+"GSM5599222_Norm3","Non-malignant","Endothelia",554
+"GSM5599222_Norm3","Non-malignant","Epithelia",410
+"GSM5599222_Norm3","Non-malignant","Fibroblast",808
+"GSM5599222_Norm3","Non-malignant","Mac-Cycling",12
+"GSM5599222_Norm3","Non-malignant","Mac-FOLR2-LYVE1-resident",55
+"GSM5599222_Norm3","Non-malignant","Mac-NUPR1-IGF2-stress",5
+"GSM5599222_Norm3","Non-malignant","Mac-OLFML3-CX3CR1-resident",37
+"GSM5599222_Norm3","Non-malignant","Mac-TNF-CCL4-inflammatory",13
+"GSM5599222_Norm3","Non-malignant","Mono-CDKN1C",1
+"GSM5599222_Norm3","Non-malignant","Mono-FCN1-S100A8-S100A9",71
+"GSM5599222_Norm3","Non-malignant","Myeloid",39
+"GSM5599222_Norm3","Non-malignant","Myeloid-CLEC10A-APC",57
+"GSM5599222_Norm3","Non-malignant","Other T",639
+"GSM5599222_Norm3","Non-malignant","SMC_myoFibroblast",295
+"GSM5599223_Norm4","Non-malignant","B cell_plasma",4
+"GSM5599223_Norm4","Non-malignant","CD8 T",290
+"GSM5599223_Norm4","Non-malignant","Cell cycle cell",180
+"GSM5599223_Norm4","Non-malignant","Endothelia",723
+"GSM5599223_Norm4","Non-malignant","Epithelia",1815
+"GSM5599223_Norm4","Non-malignant","Fibroblast",2142
+"GSM5599223_Norm4","Non-malignant","Mac-Cycling",7
+"GSM5599223_Norm4","Non-malignant","Mac-FOLR2-LYVE1-resident",18
+"GSM5599223_Norm4","Non-malignant","Mac-NUPR1-IGF2-stress",7
+"GSM5599223_Norm4","Non-malignant","Mac-OLFML3-CX3CR1-resident",12
+"GSM5599223_Norm4","Non-malignant","Mac-TNF-CCL4-inflammatory",2
+"GSM5599223_Norm4","Non-malignant","Mono-CDKN1C",23
+"GSM5599223_Norm4","Non-malignant","Mono-FCN1-S100A8-S100A9",51
+"GSM5599223_Norm4","Non-malignant","Myeloid",27
+"GSM5599223_Norm4","Non-malignant","Myeloid-CLEC10A-APC",5
+"GSM5599223_Norm4","Non-malignant","Other T",406
+"GSM5599223_Norm4","Non-malignant","SMC_myoFibroblast",141
+"GSM5599224_Norm5","Non-malignant","B cell_plasma",77
+"GSM5599224_Norm5","Non-malignant","C6-SLC2A1-like",65
+"GSM5599224_Norm5","Non-malignant","C7-APOBEC3A-like",15
+"GSM5599224_Norm5","Non-malignant","CD8 T",600
+"GSM5599224_Norm5","Non-malignant","Cell cycle cell",78
+"GSM5599224_Norm5","Non-malignant","Endothelia",305
+"GSM5599224_Norm5","Non-malignant","Epithelia",904
+"GSM5599224_Norm5","Non-malignant","Fibroblast",661
+"GSM5599224_Norm5","Non-malignant","Mac-Cycling",14
+"GSM5599224_Norm5","Non-malignant","Mac-FOLR2-LYVE1-resident",32
+"GSM5599224_Norm5","Non-malignant","Mac-NUPR1-IGF2-stress",8
+"GSM5599224_Norm5","Non-malignant","Mac-OLFML3-CX3CR1-resident",4
+"GSM5599224_Norm5","Non-malignant","Mac-TNF-CCL4-inflammatory",10
+"GSM5599224_Norm5","Non-malignant","Mono-CDKN1C",62
+"GSM5599224_Norm5","Non-malignant","Mono-FCN1-S100A8-S100A9",158
+"GSM5599224_Norm5","Non-malignant","Myeloid",52
+"GSM5599224_Norm5","Non-malignant","Myeloid-CLEC10A-APC",77
+"GSM5599224_Norm5","Non-malignant","Other T",456
+"GSM5599224_Norm5","Non-malignant","SMC_myoFibroblast",135
+"GSM5599225_Cancer1","Advanced","B cell_plasma",246
+"GSM5599225_Cancer1","Advanced","C6-SLC2A1-like",188
+"GSM5599225_Cancer1","Advanced","C7-APOBEC3A-like",55
+"GSM5599225_Cancer1","Advanced","CD8 T",2171
+"GSM5599225_Cancer1","Advanced","Cell cycle cell",142
+"GSM5599225_Cancer1","Advanced","Endothelia",64
+"GSM5599225_Cancer1","Advanced","Epithelia",1564
+"GSM5599225_Cancer1","Advanced","Fibroblast",30
+"GSM5599225_Cancer1","Advanced","Mac-Cycling",200
+"GSM5599225_Cancer1","Advanced","Mac-FOLR2-LYVE1-resident",471
+"GSM5599225_Cancer1","Advanced","Mac-NUPR1-IGF2-stress",107
+"GSM5599225_Cancer1","Advanced","Mac-OLFML3-CX3CR1-resident",386
+"GSM5599225_Cancer1","Advanced","Mac-TNF-CCL4-inflammatory",177
+"GSM5599225_Cancer1","Advanced","Mono-CDKN1C",2
+"GSM5599225_Cancer1","Advanced","Mono-FCN1-S100A8-S100A9",16
+"GSM5599225_Cancer1","Advanced","Myeloid",128
+"GSM5599225_Cancer1","Advanced","Myeloid-CLEC10A-APC",65
+"GSM5599225_Cancer1","Advanced","Other T",944
+"GSM5599225_Cancer1","Advanced","SMC_myoFibroblast",21
+"GSM5599226_Cancer2","Advanced","B cell_plasma",40
+"GSM5599226_Cancer2","Advanced","C6-SLC2A1-like",78
+"GSM5599226_Cancer2","Advanced","C7-APOBEC3A-like",19
+"GSM5599226_Cancer2","Advanced","CD8 T",265
+"GSM5599226_Cancer2","Advanced","Cell cycle cell",77
+"GSM5599226_Cancer2","Advanced","Endothelia",318
+"GSM5599226_Cancer2","Advanced","Epithelia",1321
+"GSM5599226_Cancer2","Advanced","Fibroblast",301
+"GSM5599226_Cancer2","Advanced","Mac-Cycling",187
+"GSM5599226_Cancer2","Advanced","Mac-FOLR2-LYVE1-resident",142
+"GSM5599226_Cancer2","Advanced","Mac-NUPR1-IGF2-stress",71
+"GSM5599226_Cancer2","Advanced","Mac-OLFML3-CX3CR1-resident",60
+"GSM5599226_Cancer2","Advanced","Mac-TNF-CCL4-inflammatory",115
+"GSM5599226_Cancer2","Advanced","Mono-CDKN1C",15
+"GSM5599226_Cancer2","Advanced","Mono-FCN1-S100A8-S100A9",38
+"GSM5599226_Cancer2","Advanced","Myeloid",34
+"GSM5599226_Cancer2","Advanced","Myeloid-CLEC10A-APC",54
+"GSM5599226_Cancer2","Advanced","Other T",236
+"GSM5599226_Cancer2","Advanced","SMC_myoFibroblast",102
+"GSM5599227_Cancer3","Early","B cell_plasma",176
+"GSM5599227_Cancer3","Early","C6-SLC2A1-like",21
+"GSM5599227_Cancer3","Early","C7-APOBEC3A-like",269
+"GSM5599227_Cancer3","Early","CD8 T",1791
+"GSM5599227_Cancer3","Early","Cell cycle cell",411
+"GSM5599227_Cancer3","Early","Endothelia",4
+"GSM5599227_Cancer3","Early","Epithelia",480
+"GSM5599227_Cancer3","Early","Fibroblast",13
+"GSM5599227_Cancer3","Early","Mac-Cycling",36
+"GSM5599227_Cancer3","Early","Mac-FOLR2-LYVE1-resident",28
+"GSM5599227_Cancer3","Early","Mac-NUPR1-IGF2-stress",29
+"GSM5599227_Cancer3","Early","Mac-OLFML3-CX3CR1-resident",6
+"GSM5599227_Cancer3","Early","Mac-TNF-CCL4-inflammatory",23
+"GSM5599227_Cancer3","Early","Mono-CDKN1C",3
+"GSM5599227_Cancer3","Early","Mono-FCN1-S100A8-S100A9",24
+"GSM5599227_Cancer3","Early","Myeloid",61
+"GSM5599227_Cancer3","Early","Myeloid-CLEC10A-APC",8
+"GSM5599227_Cancer3","Early","Other T",1001
+"GSM5599227_Cancer3","Early","SMC_myoFibroblast",5
+"GSM5599228_Cancer4","Early","B cell_plasma",24
+"GSM5599228_Cancer4","Early","C6-SLC2A1-like",29
+"GSM5599228_Cancer4","Early","C7-APOBEC3A-like",8
+"GSM5599228_Cancer4","Early","CD8 T",363
+"GSM5599228_Cancer4","Early","Cell cycle cell",53
+"GSM5599228_Cancer4","Early","Endothelia",12
+"GSM5599228_Cancer4","Early","Epithelia",976
+"GSM5599228_Cancer4","Early","Fibroblast",56
+"GSM5599228_Cancer4","Early","Mac-Cycling",81
+"GSM5599228_Cancer4","Early","Mac-FOLR2-LYVE1-resident",75
+"GSM5599228_Cancer4","Early","Mac-NUPR1-IGF2-stress",36
+"GSM5599228_Cancer4","Early","Mac-OLFML3-CX3CR1-resident",42
+"GSM5599228_Cancer4","Early","Mac-TNF-CCL4-inflammatory",175
+"GSM5599228_Cancer4","Early","Mono-FCN1-S100A8-S100A9",26
+"GSM5599228_Cancer4","Early","Myeloid",8
+"GSM5599228_Cancer4","Early","Myeloid-CLEC10A-APC",37
+"GSM5599228_Cancer4","Early","Other T",335
+"GSM5599228_Cancer4","Early","SMC_myoFibroblast",18
+"GSM5599229_Cancer5","Advanced","B cell_plasma",412
+"GSM5599229_Cancer5","Advanced","C6-SLC2A1-like",22
+"GSM5599229_Cancer5","Advanced","C7-APOBEC3A-like",143
+"GSM5599229_Cancer5","Advanced","CD8 T",1646
+"GSM5599229_Cancer5","Advanced","Cell cycle cell",245
+"GSM5599229_Cancer5","Advanced","Endothelia",35
+"GSM5599229_Cancer5","Advanced","Epithelia",487
+"GSM5599229_Cancer5","Advanced","Fibroblast",81
+"GSM5599229_Cancer5","Advanced","Mac-Cycling",68
+"GSM5599229_Cancer5","Advanced","Mac-FOLR2-LYVE1-resident",99
+"GSM5599229_Cancer5","Advanced","Mac-NUPR1-IGF2-stress",30
+"GSM5599229_Cancer5","Advanced","Mac-OLFML3-CX3CR1-resident",23
+"GSM5599229_Cancer5","Advanced","Mac-TNF-CCL4-inflammatory",17
+"GSM5599229_Cancer5","Advanced","Mono-CDKN1C",3
+"GSM5599229_Cancer5","Advanced","Mono-FCN1-S100A8-S100A9",5
+"GSM5599229_Cancer5","Advanced","Myeloid",74
+"GSM5599229_Cancer5","Advanced","Myeloid-CLEC10A-APC",15
+"GSM5599229_Cancer5","Advanced","Other T",1598
+"GSM5599229_Cancer5","Advanced","SMC_myoFibroblast",44
+"GSM5599230_Cancer6","Advanced","B cell_plasma",14
+"GSM5599230_Cancer6","Advanced","C6-SLC2A1-like",103
+"GSM5599230_Cancer6","Advanced","C7-APOBEC3A-like",18
+"GSM5599230_Cancer6","Advanced","CD8 T",295
+"GSM5599230_Cancer6","Advanced","Cell cycle cell",95
+"GSM5599230_Cancer6","Advanced","Endothelia",27
+"GSM5599230_Cancer6","Advanced","Epithelia",1812
+"GSM5599230_Cancer6","Advanced","Fibroblast",1058
+"GSM5599230_Cancer6","Advanced","Mac-Cycling",99
+"GSM5599230_Cancer6","Advanced","Mac-FOLR2-LYVE1-resident",113
+"GSM5599230_Cancer6","Advanced","Mac-NUPR1-IGF2-stress",100
+"GSM5599230_Cancer6","Advanced","Mac-OLFML3-CX3CR1-resident",36
+"GSM5599230_Cancer6","Advanced","Mac-TNF-CCL4-inflammatory",54
+"GSM5599230_Cancer6","Advanced","Mono-CDKN1C",2
+"GSM5599230_Cancer6","Advanced","Mono-FCN1-S100A8-S100A9",5
+"GSM5599230_Cancer6","Advanced","Myeloid",11
+"GSM5599230_Cancer6","Advanced","Myeloid-CLEC10A-APC",13
+"GSM5599230_Cancer6","Advanced","Other T",348
+"GSM5599230_Cancer6","Advanced","SMC_myoFibroblast",50
+"GSM5599231_Cancer7","Early","B cell_plasma",646
+"GSM5599231_Cancer7","Early","C7-APOBEC3A-like",57
+"GSM5599231_Cancer7","Early","CD8 T",1507
+"GSM5599231_Cancer7","Early","Cell cycle cell",150
+"GSM5599231_Cancer7","Early","Endothelia",4
+"GSM5599231_Cancer7","Early","Epithelia",866
+"GSM5599231_Cancer7","Early","Fibroblast",3
+"GSM5599231_Cancer7","Early","Mac-Cycling",21
+"GSM5599231_Cancer7","Early","Mac-FOLR2-LYVE1-resident",22
+"GSM5599231_Cancer7","Early","Mac-NUPR1-IGF2-stress",31
+"GSM5599231_Cancer7","Early","Mac-OLFML3-CX3CR1-resident",10
+"GSM5599231_Cancer7","Early","Mac-TNF-CCL4-inflammatory",10
+"GSM5599231_Cancer7","Early","Mono-CDKN1C",1
+"GSM5599231_Cancer7","Early","Mono-FCN1-S100A8-S100A9",3
+"GSM5599231_Cancer7","Early","Myeloid",82
+"GSM5599231_Cancer7","Early","Myeloid-CLEC10A-APC",1
+"GSM5599231_Cancer7","Early","Other T",1021
