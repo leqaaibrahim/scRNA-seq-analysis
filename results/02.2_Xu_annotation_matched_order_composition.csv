@@ -1,0 +1,25 @@
+"stage","cell_type","n_cells","proportion"
+"Nonmalignant","T cell",5025,0.207859358841779
+"Early","T cell",6018,0.538378958668814
+"Advanced","T cell",7503,0.379898734177215
+"Nonmalignant","Epithelia",6493,0.268583247156153
+"Early","Epithelia",2322,0.207729468599034
+"Advanced","Epithelia",5184,0.262481012658228
+"Nonmalignant","Fibroblast",8240,0.340847983453981
+"Early","Fibroblast",72,0.00644122383252818
+"Advanced","Fibroblast",1470,0.0744303797468354
+"Nonmalignant","Monocytic",1366,0.0565046535677353
+"Early","Monocytic",1377,0.123188405797101
+"Advanced","Monocytic",3882,0.196556962025316
+"Nonmalignant","Endothelia",1846,0.0763598759048604
+"Early","Endothelia",20,0.00178922884236894
+"Advanced","Endothelia",444,0.0224810126582278
+"Nonmalignant","Cell cycle cell",339,0.0140227507755946
+"Early","Cell cycle cell",614,0.0549293254607264
+"Advanced","Cell cycle cell",559,0.0283037974683544
+"Nonmalignant","B cell_plasma",36,0.00148914167528438
+"Early","B cell_plasma",732,0.0654857756307032
+"Advanced","B cell_plasma",491,0.0248607594936709
+"Nonmalignant","SMC_myoFibroblast",830,0.0343329886246122
+"Early","SMC_myoFibroblast",23,0.00205761316872428
+"Advanced","SMC_myoFibroblast",217,0.0109873417721519
