@@ -1,0 +1,21 @@
+# R/RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Large data and intermediate objects
+data/GSE184880/
+*.rds
+*.rda
+*.h5
+*.h5ad
+*.mtx
+*.mtx.gz
+
+# High-resolution figures and small result tables should be committed.
+# Large R objects remain excluded by the extensions above.
+
+# OS/editor files
+.DS_Store
+Thumbs.db
