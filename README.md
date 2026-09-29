@@ -95,7 +95,7 @@ Stage 04 is computationally expensive and can be run separately. Intermediate `.
 
 - The setup script checks that the required R packages are installed. The full `sessionInfo()` output for each stage (01, 02, 02.1, 02.2, 03, and 04) is saved as a stage-specific session-information file in `results/`.
 
-Key settings are more than 200 detected genes and less than 40% mitochondrial reads; `LogNormalize` with scale factor 10,000; 2,000 `vst` HVGs; 10 dimensions; CCA integration by `orig.ident`; UMAP with 30 neighbors, minimum distance 0.3, and cosine metric; and clustering resolution 0.08. Random seeds are fixed throughout (`set.seed(42)`).
+Key settings are more than 200 detected genes and less than 40% mitochondrial reads; `LogNormalize` with scale factor 10,000; 2,000 `vst` HVGs; 10 dimensions; CCA integration by `orig.ident`; UMAP with 30 neighbors, minimum distance 0.3, and cosine metric; and clustering resolution 0.08. Random seed 42 was fixed for integration, clustering, and dimensionality reduction; doublet detection with scDblFinder used a separate fixed seed (set.seed(100)), as set in scripts/01_qc_doublet_removal_and_merge.R.
 
 ## Results
 
